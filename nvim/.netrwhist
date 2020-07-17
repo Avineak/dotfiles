@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/avi/test'
+let g:netrw_dirhist_1='/home/avi'
+let g:netrw_dirhist_0='/home/avi/Practice/golang/Test'
+let g:netrw_dirhist_9='/home/avi/Practice/golang'
+let g:netrw_dirhist_8='/home/avi/Practice/golang/Test'
+let g:netrw_dirhist_7='/home/avi/test'
+let g:netrw_dirhist_6='/home/avi/vue-mastery/Intro'
+let g:netrw_dirhist_5='/home/avi/vue/intro'
+let g:netrw_dirhist_4='/home/avi/project/flutter/my_app/lib'
+let g:netrw_dirhist_3='/home/avi/project/flutter/my_app'

@@ -1,0 +1,211 @@
+[color]
+font-primary = #ffffff
+font-secondary = #55
+background = #29353b
+separator = |
+
+
+[bar/mybar]
+#modules-right = cpu memory network battery
+modules-right = cpu memory pulseaudio network battery
+modules-center = date
+tray-position = right
+tray-padding = 2
+modules-left = bspwm title
+wm-restack = bspwm
+enable-ipc = true
+font-0 = "FontAwesome:size=10;1.5"
+font-1 = "Tamsyn:pixelsize=10;1.5"
+font-2 = "Roboto:size=11:weight=bold;3"
+font-3 = "Noto Sans:size=10;2"
+font-4 = "Noto Sans Mono:style=Regular;2"
+module-margin = 2
+separator = |
+
+
+[module/title]
+type = internal/xwindow
+format = <label>
+format-background = ${color.background}
+format-foreground = ${color.font-primary}
+format-padding = 2
+label = %title%
+label-maxlen = 60
+label.font = 2
+
+; Used instead of label when there is no window title
+; Available tokens:
+;   None
+label-empty = Empty
+label-empty-foreground = #707880
+
+[module/date]
+type = internal/date
+date = %Y-%m-%d%
+time = %I:%M %p
+label = %date% | %time%
+label-font = 2
+label-foreground = #ffffff
+#label-background = #34495e
+label-padding = 2
+ 
+
+[module/cpu]
+type = internal/cpu
+interval = 3
+format = <label> 
+; Available tokens:
+;   %percentage% (default) - total cpu load averaged over all cores
+;   %percentage-sum% - Cumulative load on all cores
+;   %percentage-cores% - load percentage for each core
+;   %percentage-core[1-9]% - load percentage for specific core
+label =   %percentage%%
+label.font = 2
+label-foreground = #ffffff
+#label-background = #34495e
+label-padding = 2
+
+[module/memory]
+type = internal/memory
+interval = 3
+format = <label>
+; Available tokens:
+;   %percentage_used% (default)
+;   %percentage_free%
+;   %gb_used%
+;   %gb_free%
+;   %gb_total%
+;   %mb_used%
+;   %mb_free%
+;   %mb_total%
+;   %percentage_swap_used%
+;   %percentage_swap_free%
+;   %mb_swap_total%
+;   %mb_swap_free%
+;   %mb_swap_used%
+;   %gb_swap_total%
+;   %gb_swap_free%
+;   %gb_swap_used%
+label =   %mb_used%
+label.font = 2
+label-foreground = #ffffff
+#label-background = #34495e
+label-padding = 2
+
+[module/bspwm]
+type = internal/bspwm
+pin-workspaces = true
+inline-mode = false
+enable-click = true
+enable-scroll = false
+reverse-scroll = false
+fuzzy-match = true
+ws-icon-0 = 1;
+ws-icon-1 = 2;
+ws-icon-2 = 3;
+ws-icon-3 = 4;
+ws-icon-4 = 5;
+ws-icon-5 = 6; 
+ws-icon-default = null
+label-monitor = %name%
+
+; for dimmed 
+label-dimmed-foreground = #555
+;label-dimmed-underline = #266712
+label-dimmed-focused-background = #f00
+
+; for focused 
+label-focused = %icon%
+label-focused-foreground = #e5cce5
+label-focused-background = #34495e
+;label-focused-underline = #fba922
+label-focused-padding = 2
+
+; for occupied
+label-occupied = %icon%
+;label-occupied-underline = #555555
+label-occupied-foreground = #999999
+label-occupied-padding = 2
+
+; for urgent 
+label-urgent = %icon%
+label-urgent-foreground = #000000
+label-urgent-background = #bd2c40
+;label-urgent-underline = #9b0a20
+label-urgent-padding = 2
+
+; for empty 
+label-empty = %icon%
+label-empty-foreground = #55
+label-empty-padding = 2
+
+
+[module/pulseaudio]
+type = internal/pulseaudio
+; Sink to be used, if it exists (find using `pacmd list-sinks`, name field)
+; If not, uses default sink
+sink = alsa_output.pci-0000_12_00.3.analog-stereo
+; Use PA_VOLUME_UI_MAX (~153%) if true, or PA_VOLUME_NORM (100%) if false
+; Default: true
+use-ui-max = true
+; Interval for volume increase/decrease (in percent points)
+; Default: 5
+interval = 5
+format-volume =  <label-volume>
+label-volume =   %percentage%%
+label-muted =  0%
+label-muted-foreground = #666
+ramp-volume-0 = 🔈
+ramp-volume-1 = 🔉
+ramp-volume-2 = 🔊
+click-right = pavucontrol &
+#label-volume-background = #34495e
+label-volume-padding = 0
+labe-volume-font = 2
+
+[module/network]
+type = internal/network
+interface = wlp6s0
+interval = 3.0
+udspeed-minwidth = 5
+accumulate-stats = true
+unknown-as-up = true
+format-connected = <label-connected>
+format-disconnected = <label-disconnected>
+format-packetloss = <animation-packetloss> <label-connected>
+label-connected = %upspeed% %downspeed%
+label-connected-foreground = #eefafafa
+label-disconnected = not connected
+label-disconnected-foreground = #66ffffff
+
+[module/battery]
+type = internal/battery
+full-at = 99
+battery = BAT0
+adapter = ADP1
+poll-interval = 5
+time-format = %H:%M
+format-charging = <animation-charging> <label-charging>
+format-discharging = <ramp-capacity> <label-discharging>
+label-charging = Charging %percentage%%
+label-discharging = Discharging %percentage%%
+label-full = Fully charged
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+bar-capacity-width = 10
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+animation-charging-framerate = 1000
+animation-discharging-0 = 
+animation-discharging-1 = 
+animation-discharging-2 = 
+animation-discharging-3 = 
+animation-discharging-4 = 
+; Framerate in milliseconds
+animation-discharging-framerate = 500
