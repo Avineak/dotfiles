@@ -8,21 +8,23 @@ bspc monitor -d 1 2 3 4 5 6
 bspc config border_width        2
 bspc config window_gap          5
 
-bspc config split_ratio          0.7
+bspc config split_ratio          0.52
 bspc config borderless_monocle   true
 bspc config gapless_monocle      true
 
-bspc rule -a kitty desktop='^1' follow=on
-bspc rule -a Brave-browser desktop='^2' follow=on state=tiling
+bspc rule -a Terminator desktop='^1' follow=on state=tiled
+bspc rule -a Brave-browser desktop='^2' follow=on state=monocle
 bspc rule -a Thunar desktop='^3' follow=on state=monocle
 bspc rule -a Pamac-manager desktop='^5' follow=on state=monocle
 bspc rule -a zoom desktop='^4' follow=on state=floating
 bspc rule -a "React Native Debugger" desktop='^6' follow=on state=monocle
 bspc rule -a Screenkey manage=off
 bspc rule -a xdman-Main state=floating
+bspc rule -a zoom state=floating
 bspc rule -a  jetbrains-studio state=floating desktop='^6' follow=on
 bspc rule -a  SimpleScreenRecorder state=floating desktop='^4' follow=on
+bspc rule -a code-oss state=fullscreen desktop='^6' follow=on 
 
-bspc rule -a wm_name=nmtui state=floating
+bspc rule -a wm_name=nmtui state=monocle
 $HOME/.config/polybar/launch.sh
 

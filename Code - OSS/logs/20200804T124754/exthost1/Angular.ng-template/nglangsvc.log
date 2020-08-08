@@ -1,0 +1,267 @@
+Info 0    [15:59:25.775] Format host information updated
+Info 1    [15:59:25.775] reload projects.
+Info 2    [15:59:25.775] Before ensureProjectForOpenFiles:
+Info 3    [15:59:25.775] After ensureProjectForOpenFiles:
+Info 4    [15:59:25.775] Host file extension mappings updated
+Info 5    [15:59:25.785] Search path: /home/avi/angular/angular-inventory/src/app
+Info 6    [15:59:25.786] For info: /home/avi/angular/angular-inventory/src/app/app.component.html :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 7    [15:59:25.786] Opened configuration file /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 8    [15:59:25.806] Config: /home/avi/angular/angular-inventory/src/tsconfig.json : {
+ "rootNames": [
+  "/home/avi/angular/angular-inventory/src/main.ts",
+  "/home/avi/angular/angular-inventory/src/polyfills.ts",
+  "/home/avi/angular/angular-inventory/src/test.ts",
+  "/home/avi/angular/angular-inventory/src/app/app.component.spec.ts",
+  "/home/avi/angular/angular-inventory/src/app/app.component.ts",
+  "/home/avi/angular/angular-inventory/src/app/app.module.ts",
+  "/home/avi/angular/angular-inventory/src/environments/environment.prod.ts",
+  "/home/avi/angular/angular-inventory/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/avi/angular/angular-inventory/src",
+  "declaration": false,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true,
+  "lib": [
+   "lib.es2015.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "mapRoot": "./",
+  "module": 5,
+  "moduleResolution": 2,
+  "outDir": "/home/avi/angular/angular-inventory/dist/out-tsc",
+  "sourceMap": true,
+  "target": 1,
+  "typeRoots": [
+   "/home/avi/angular/angular-inventory/node_modules/@types"
+  ],
+  "configFilePath": "/home/avi/angular/angular-inventory/src/tsconfig.json"
+ }
+}
+Info 9    [15:59:25.809] Loading global plugin @angular/language-service
+Info 10   [15:59:25.809] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [15:59:25.809] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 12   [15:59:25.887] Plugin validation succeded
+Info 13   [15:59:25.902] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 14   [15:59:30.513] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 1 structureChanged: true Elapsed: 4611ms
+Info 15   [15:59:30.513] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 16   [15:59:30.513] 	Files (319)
+
+Info 17   [15:59:30.513] -----------------------------------------------
+Info 18   [15:59:30.518] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 19   [15:59:30.523] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 2 structureChanged: false Elapsed: 4ms
+Info 20   [15:59:30.529] Disabling language service for /home/avi/angular/angular-inventory/src/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+Info 21   [16:7:33.503] Search path: /home/avi/angular/angular-inventory/src/app
+Info 22   [16:7:33.503] For info: /home/avi/angular/angular-inventory/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 23   [16:7:33.503] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 24   [16:7:33.716] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 3 structureChanged: true Elapsed: 213ms
+Info 25   [16:7:33.716] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 26   [16:7:33.716] 	Files (126)
+
+Info 27   [16:7:33.716] -----------------------------------------------
+Info 28   [16:8:39.597] Search path: /home/avi/angular/angular-inventory/src/app
+Info 29   [16:8:39.598] For info: /home/avi/angular/angular-inventory/src/app/app.component.html :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 30   [16:8:39.598] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 31   [16:8:39.668] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 4 structureChanged: true Elapsed: 70ms
+Info 32   [16:8:39.669] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 33   [16:8:39.669] 	Files (0)
+
+Info 34   [16:8:39.669] -----------------------------------------------
+Info 35   [16:8:39.683] Loading global plugin @angular/language-service
+Info 36   [16:8:39.683] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 37   [16:8:39.684] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 38   [16:8:39.826] Plugin validation succeded
+Info 39   [16:8:39.830] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 40   [16:8:40.909] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1079ms
+Info 41   [16:8:40.909] Project '/dev/null/inferredProject1*' (Inferred)
+Info 42   [16:8:40.909] 	Files (28)
+
+Info 43   [16:8:40.909] -----------------------------------------------
+Info 44   [16:8:42.66] Search path: /home/avi/angular/angular-inventory/src/app
+Info 45   [16:8:42.66] For info: /home/avi/angular/angular-inventory/src/app/app.component.html :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 46   [16:8:42.66] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 47   [16:8:42.78] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 12ms
+Info 48   [16:8:42.78] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 49   [16:26:48.755] DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src :: WatchInfo: /home/avi/angular/angular-inventory/src 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Wild card directory
+Info 50   [16:26:48.756] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src :: WatchInfo: /home/avi/angular/angular-inventory/src 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Wild card directory
+Info 51   [16:26:48.756] DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app :: WatchInfo: /home/avi/angular/angular-inventory/src/app 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 52   [16:26:48.756] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app :: WatchInfo: /home/avi/angular/angular-inventory/src/app 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 53   [16:26:49.26] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 54   [16:26:49.26] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 5 structureChanged: false Elapsed: 0ms
+Info 55   [16:26:49.26] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 56   [16:26:49.26] 	Files (0)
+
+Info 57   [16:26:49.26] -----------------------------------------------
+Info 58   [16:26:51.257] Before ensureProjectForOpenFiles:
+Info 59   [16:26:51.257] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 60   [16:26:51.263] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true Elapsed: 6ms
+Info 61   [16:26:51.264] Project '/dev/null/inferredProject1*' (Inferred)
+Info 62   [16:26:51.264] 	Files (0)
+
+Info 63   [16:26:51.264] -----------------------------------------------
+Info 64   [16:26:51.264] After ensureProjectForOpenFiles:
+Info 65   [16:26:52.697] Search path: /home/avi/angular/angular-inventory/src/app/product
+Info 66   [16:26:52.697] For info: /home/avi/angular/angular-inventory/src/app/product/product.component.html :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 67   [16:26:52.699] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 68   [16:26:52.763] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: true Elapsed: 64ms
+Info 69   [16:26:52.763] Project '/dev/null/inferredProject1*' (Inferred)
+Info 70   [16:26:52.764] 	Files (28)
+
+Info 71   [16:26:52.764] -----------------------------------------------
+Info 72   [16:26:54.340] Search path: /home/avi/angular/angular-inventory/src/app/product
+Info 73   [16:26:54.340] For info: /home/avi/angular/angular-inventory/src/app/product/product.component.ts :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 74   [16:26:54.340] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 75   [16:26:55.117] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 6 structureChanged: true Elapsed: 777ms
+Info 76   [16:26:55.117] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 77   [16:26:55.117] 	Files (126)
+
+Info 78   [16:26:55.117] -----------------------------------------------
+Info 79   [16:26:55.117] `remove Project::
+Info 80   [16:26:55.117] Project '/dev/null/inferredProject1*' (Inferred)
+Info 81   [16:26:55.117] 	Files (28)
+
+Info 82   [16:26:55.117] -----------------------------------------------
+Info 83   [16:27:38.870] DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src :: WatchInfo: /home/avi/angular/angular-inventory/src 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Wild card directory
+Info 84   [16:27:38.871] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src :: WatchInfo: /home/avi/angular/angular-inventory/src 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Wild card directory
+Info 85   [16:27:38.871] DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app :: WatchInfo: /home/avi/angular/angular-inventory/src/app 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 86   [16:27:38.876] Elapsed:: 5ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app :: WatchInfo: /home/avi/angular/angular-inventory/src/app 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 87   [16:27:39.194] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 88   [16:27:39.195] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 7 structureChanged: true Elapsed: 1ms
+Info 89   [16:27:39.196] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 90   [16:27:41.376] Before ensureProjectForOpenFiles:
+Info 91   [16:27:41.377] After ensureProjectForOpenFiles:
+Info 92   [16:27:53.886] Search path: /home/avi/angular/angular-inventory/src/app/product
+Info 93   [16:27:53.886] For info: /home/avi/angular/angular-inventory/src/app/product/product.model.ts :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 94   [16:27:53.889] Loading global plugin @angular/language-service
+Info 95   [16:27:53.889] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 96   [16:27:53.891] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 97   [16:27:54.15] Plugin validation succeded
+Info 98   [16:27:54.17] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 99   [16:27:54.441] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 1 structureChanged: true Elapsed: 424ms
+Info 100  [16:27:54.441] Project '/dev/null/inferredProject2*' (Inferred)
+Info 101  [16:27:54.441] 	Files (28)
+
+Info 102  [16:27:54.442] -----------------------------------------------
+Info 103  [16:27:54.716] DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src :: WatchInfo: /home/avi/angular/angular-inventory/src 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Wild card directory
+Info 104  [16:27:54.716] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src :: WatchInfo: /home/avi/angular/angular-inventory/src 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Wild card directory
+Info 105  [16:27:54.716] DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app :: WatchInfo: /home/avi/angular/angular-inventory/src/app 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 106  [16:27:54.722] Elapsed:: 6ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app :: WatchInfo: /home/avi/angular/angular-inventory/src/app 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 107  [16:27:55.34] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 108  [16:27:55.35] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 8 structureChanged: true Elapsed: 1ms
+Info 109  [16:27:55.35] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 110  [16:27:55.35] 	Files (127)
+
+Info 111  [16:27:55.35] -----------------------------------------------
+Info 112  [16:27:57.223] Before ensureProjectForOpenFiles:
+Info 113  [16:27:57.223] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 114  [16:27:57.227] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 2 structureChanged: true Elapsed: 4ms
+Info 115  [16:27:57.227] Project '/dev/null/inferredProject2*' (Inferred)
+Info 116  [16:27:57.227] 	Files (0)
+
+Info 117  [16:27:57.227] -----------------------------------------------
+Info 118  [16:27:57.227] After ensureProjectForOpenFiles:
+Info 119  [16:33:51.391] Search path: /home/avi/angular/angular-inventory/src/app/product
+Info 120  [16:33:51.391] For info: /home/avi/angular/angular-inventory/src/app/product/product.component.html :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 121  [16:33:51.391] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 122  [16:33:51.470] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 9 structureChanged: true Elapsed: 79ms
+Info 123  [16:33:51.470] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 124  [16:33:51.471] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 125  [16:33:51.528] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 3 structureChanged: true Elapsed: 57ms
+Info 126  [16:33:51.528] Project '/dev/null/inferredProject2*' (Inferred)
+Info 127  [16:33:51.528] 	Files (28)
+
+Info 128  [16:33:51.528] -----------------------------------------------
+Info 129  [16:33:54.301] Search path: /home/avi/angular/angular-inventory/src/app/product
+Info 130  [16:33:54.301] For info: /home/avi/angular/angular-inventory/src/app/product/product.component.html :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 131  [16:33:54.301] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 132  [16:33:54.309] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 4 structureChanged: false Elapsed: 8ms
+Info 133  [16:33:54.309] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 134  [16:52:46.397] Search path: /home/avi/angular/angular-inventory/src/app
+Info 135  [16:52:46.397] For info: /home/avi/angular/angular-inventory/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 136  [16:52:46.397] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 137  [16:52:46.572] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 10 structureChanged: true Elapsed: 175ms
+Info 138  [16:52:46.572] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 139  [16:52:46.573] 	Files (128)
+
+Info 140  [16:52:46.573] -----------------------------------------------
+Info 141  [16:52:46.573] `remove Project::
+Info 142  [16:52:46.573] Project '/dev/null/inferredProject2*' (Inferred)
+Info 143  [16:52:46.573] 	Files (28)
+
+Info 144  [16:52:46.573] -----------------------------------------------
+Info 145  [16:56:28.743] Search path: /home/avi/angular/angular-inventory/src/app
+Info 146  [16:56:28.744] For info: /home/avi/angular/angular-inventory/src/app/app.component.spec.ts :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 147  [16:56:28.744] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 148  [16:56:28.924] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 11 structureChanged: true Elapsed: 180ms
+Info 149  [16:56:28.924] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 150  [16:56:28.925] 	Files (139)
+
+Info 151  [16:56:28.925] -----------------------------------------------
+Info 152  [16:56:40.202] Search path: /home/avi/angular/angular-inventory/src/app/product
+Info 153  [16:56:40.202] For info: /home/avi/angular/angular-inventory/src/app/product/product.component.spec.ts :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 154  [16:56:40.202] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 155  [16:56:40.805] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 12 structureChanged: true Elapsed: 602ms
+Info 156  [16:56:40.805] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 157  [16:56:40.805] 	Files (196)
+
+Info 158  [16:56:40.805] -----------------------------------------------
+Info 159  [16:58:36.939] FileWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-inventory/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 160  [16:58:36.941] Elapsed:: 2ms FileWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-inventory/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 161  [16:58:36.942] FileWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-inventory/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 162  [16:58:36.943] Elapsed:: 0ms FileWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-inventory/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 163  [16:58:36.945] FileWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-inventory/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 164  [16:58:36.945] Elapsed:: 0ms FileWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-inventory/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 165  [16:58:36.945] FileWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-inventory/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 166  [16:58:36.946] Elapsed:: 1ms FileWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-inventory/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 167  [16:58:37.196] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 168  [16:58:37.200] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 13 structureChanged: false Elapsed: 4ms
+Info 169  [16:58:37.915] DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src :: WatchInfo: /home/avi/angular/angular-inventory/src 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Wild card directory
+Info 170  [16:58:37.915] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src :: WatchInfo: /home/avi/angular/angular-inventory/src 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Wild card directory
+Info 171  [16:58:37.915] DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app :: WatchInfo: /home/avi/angular/angular-inventory/src/app 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 172  [16:58:37.923] Elapsed:: 8ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app :: WatchInfo: /home/avi/angular/angular-inventory/src/app 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 173  [16:58:38.209] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 174  [16:58:38.209] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 14 structureChanged: false Elapsed: 0ms
+Info 175  [16:58:38.209] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 176  [16:58:38.209] 	Files (196)
+
+Info 177  [16:58:38.209] -----------------------------------------------
+Info 178  [16:58:40.423] Before ensureProjectForOpenFiles:
+Info 179  [16:58:40.424] After ensureProjectForOpenFiles:
+Info 180  [16:58:46.717] Search path: /home/avi/angular/angular-inventory/src/app/product-list
+Info 181  [16:58:46.718] For info: /home/avi/angular/angular-inventory/src/app/product-list/product-list.component.ts :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 182  [16:58:46.718] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 183  [16:58:46.849] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 15 structureChanged: true Elapsed: 131ms
+Info 184  [16:58:46.849] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 185  [16:58:46.849] 	Files (128)
+
+Info 186  [16:58:46.849] -----------------------------------------------
+Info 187  [16:59:5.278] Search path: /home/avi/angular/angular-inventory/src/app/product-list
+Info 188  [16:59:5.278] For info: /home/avi/angular/angular-inventory/src/app/product-list/product-list.model.ts :: Config file name: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 189  [16:59:5.278] Loading global plugin @angular/language-service
+Info 190  [16:59:5.278] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 191  [16:59:5.278] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 192  [16:59:5.300] Plugin validation succeded
+Info 193  [16:59:5.303] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 194  [16:59:5.628] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 1 structureChanged: true Elapsed: 325ms
+Info 195  [16:59:5.628] Project '/dev/null/inferredProject3*' (Inferred)
+Info 196  [16:59:5.628] 	Files (28)
+
+Info 197  [16:59:5.628] -----------------------------------------------
+Info 198  [16:59:6.156] DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src :: WatchInfo: /home/avi/angular/angular-inventory/src 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Wild card directory
+Info 199  [16:59:6.157] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src :: WatchInfo: /home/avi/angular/angular-inventory/src 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Wild card directory
+Info 200  [16:59:6.157] DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app :: WatchInfo: /home/avi/angular/angular-inventory/src/app 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 201  [16:59:6.164] Elapsed:: 7ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-inventory/src/app :: WatchInfo: /home/avi/angular/angular-inventory/src/app 1 undefined Project: /home/avi/angular/angular-inventory/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 202  [16:59:6.426] Starting updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json
+Info 203  [16:59:6.426] Finishing updateGraphWorker: Project: /home/avi/angular/angular-inventory/src/tsconfig.json Version: 16 structureChanged: false Elapsed: 0ms
+Info 204  [16:59:6.426] Project '/home/avi/angular/angular-inventory/src/tsconfig.json' (Configured)
+Info 205  [16:59:6.426] 	Files (128)
+
+Info 206  [16:59:6.426] -----------------------------------------------
+Info 207  [16:59:8.664] Before ensureProjectForOpenFiles:
+Info 208  [16:59:8.664] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 209  [16:59:8.668] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 2 structureChanged: true Elapsed: 4ms
+Info 210  [16:59:8.668] Project '/dev/null/inferredProject3*' (Inferred)
+Info 211  [16:59:8.668] 	Files (0)
+
+Info 212  [16:59:8.668] -----------------------------------------------
+Info 213  [16:59:8.668] After ensureProjectForOpenFiles:

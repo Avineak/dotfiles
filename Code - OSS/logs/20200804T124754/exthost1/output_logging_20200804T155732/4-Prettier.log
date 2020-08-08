@@ -1,0 +1,551 @@
+["INFO" - 3:57:32 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 3:57:32 PM] Extension Version: 5.1.3.
+["INFO" - 3:57:32 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 3:57:32 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 4:09:20 PM] Formatting /home/avi/angular/angular-inventory/src/app/app.component.html
+["INFO" - 4:09:20 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:09:20 PM] Using bundled version of prettier.
+["INFO" - 4:09:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:09:20 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:09:20 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:09:20 PM] Formatting completed in 132.725453ms.
+["INFO" - 4:12:52 PM] Formatting /home/avi/angular/angular-inventory/src/app/app.component.html
+["INFO" - 4:12:52 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:12:52 PM] Using bundled version of prettier.
+["INFO" - 4:12:52 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:12:52 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:12:52 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:12:52 PM] Formatting completed in 20.222258ms.
+["INFO" - 4:15:31 PM] Formatting /home/avi/angular/angular-inventory/src/app/app.component.html
+["INFO" - 4:15:31 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:15:31 PM] Using bundled version of prettier.
+["INFO" - 4:15:31 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:15:31 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:15:31 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:15:31 PM] Formatting completed in 17.856492ms.
+["INFO" - 4:15:48 PM] Formatting /home/avi/angular/angular-inventory/src/app/app.component.html
+["INFO" - 4:15:48 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:15:48 PM] Using bundled version of prettier.
+["INFO" - 4:15:48 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:15:48 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:15:48 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:15:48 PM] Formatting completed in 23.231993ms.
+["INFO" - 4:16:10 PM] Formatting /home/avi/angular/angular-inventory/src/app/app.component.html
+["INFO" - 4:16:10 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:16:10 PM] Using bundled version of prettier.
+["INFO" - 4:16:10 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:16:10 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:16:10 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:16:10 PM] Formatting completed in 31.844001ms.
+["INFO" - 4:16:44 PM] Formatting /home/avi/angular/angular-inventory/src/app/app.component.html
+["INFO" - 4:16:44 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:16:44 PM] Using bundled version of prettier.
+["INFO" - 4:16:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:16:44 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:16:44 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:18:33 PM] Formatting /home/avi/.config/Code - OSS/User/keybindings.json
+["INFO" - 4:18:33 PM] Using ignore file (if present) at undefined
+["INFO" - 4:18:33 PM] Using bundled version of prettier.
+["INFO" - 4:18:33 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "json"
+}
+["INFO" - 4:18:33 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 4:18:33 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/avi/.config/Code - OSS/User/keybindings.json",
+  "parser": "json"
+}
+["INFO" - 4:18:33 PM] Formatting completed in 30.08902ms.
+["INFO" - 4:19:59 PM] Formatting /home/avi/angular/angular-inventory/src/app/app.component.html
+["INFO" - 4:19:59 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:19:59 PM] Using bundled version of prettier.
+["INFO" - 4:19:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:19:59 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:19:59 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:19:59 PM] Formatting completed in 21.164077ms.
+["INFO" - 4:21:46 PM] Formatting /home/avi/angular/angular-inventory/src/app/app.component.html
+["INFO" - 4:21:46 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:21:46 PM] Using bundled version of prettier.
+["INFO" - 4:21:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:21:46 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:21:46 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:21:46 PM] Formatting completed in 31.785647ms.
+["INFO" - 4:27:18 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+["INFO" - 4:27:18 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:27:18 PM] Using bundled version of prettier.
+["INFO" - 4:27:18 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 4:27:18 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:27:18 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.component.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:27:19 PM] Formatting completed in 360.850209ms.
+["INFO" - 4:30:14 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+["INFO" - 4:30:14 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:30:14 PM] Using bundled version of prettier.
+["INFO" - 4:30:14 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 4:30:14 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:30:14 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.model.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:30:14 PM] Formatting completed in 61.956852ms.
+["INFO" - 4:31:46 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+["INFO" - 4:31:46 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:31:46 PM] Using bundled version of prettier.
+["INFO" - 4:31:46 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 4:31:46 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:31:46 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.component.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:31:46 PM] Formatting completed in 92.91771ms.
+["INFO" - 4:31:59 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+["INFO" - 4:31:59 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:31:59 PM] Using bundled version of prettier.
+["INFO" - 4:31:59 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 4:31:59 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:31:59 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.model.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:31:59 PM] Formatting completed in 29.770086ms.
+["INFO" - 4:34:15 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.component.html
+["INFO" - 4:34:15 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:34:15 PM] Using bundled version of prettier.
+["INFO" - 4:34:15 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:34:15 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:34:15 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["ERROR" - 4:34:15 PM] Error formatting document.
+["ERROR" - 4:34:15 PM] Unexpected closing tag "p". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (3:1)
+  1 | <p>
+  2 |   <h1>{{product.}}</h1>
+> 3 | </p>
+    | ^
+  4 | 
+SyntaxError: Unexpected closing tag "p". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (3:1)
+  1 | <p>
+  2 |   <h1>{{product.}}</h1>
+> 3 | </p>
+    | ^
+  4 | 
+	at ct (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-html.js:1:16656)
+	at It (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-html.js:113:1296)
+	at e (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-html.js:113:3247)
+	at Object.parse (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-html.js:113:3724)
+	at Object.parse (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 4:34:15 PM] Formatting completed in 44.338005ms.
+["INFO" - 4:34:55 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.component.html
+["INFO" - 4:34:55 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:34:55 PM] Using bundled version of prettier.
+["INFO" - 4:34:55 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:34:55 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:34:55 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["ERROR" - 4:34:55 PM] Error formatting document.
+["ERROR" - 4:34:55 PM] Unexpected closing tag "p". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (4:1)
+  2 |   <h1>{{product.department}}</h1>
+  3 |   <span>{{ product.price }}</span>
+> 4 | </p>
+    | ^
+  5 | 
+SyntaxError: Unexpected closing tag "p". It may happen when the tag has already been closed by another tag. For more info see https://www.w3.org/TR/html5/syntax.html#closing-elements-that-have-implied-end-tags (4:1)
+  2 |   <h1>{{product.department}}</h1>
+  3 |   <span>{{ product.price }}</span>
+> 4 | </p>
+    | ^
+  5 | 
+	at ct (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-html.js:1:16656)
+	at It (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-html.js:113:1296)
+	at e (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-html.js:113:3247)
+	at Object.parse (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-html.js:113:3724)
+	at Object.parse (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 4:34:55 PM] Formatting completed in 17.244331ms.
+["INFO" - 4:37:16 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+["INFO" - 4:37:16 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:37:16 PM] Using bundled version of prettier.
+["INFO" - 4:37:16 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 4:37:16 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:37:16 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.model.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:37:16 PM] Formatting completed in 18.310297ms.
+["INFO" - 4:37:45 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+["INFO" - 4:37:45 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:37:45 PM] Using bundled version of prettier.
+["INFO" - 4:37:45 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 4:37:45 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:37:45 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.component.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["ERROR" - 4:37:45 PM] Error formatting document.
+["ERROR" - 4:37:45 PM] ':' expected. (12:46)
+  10 |   product: Product;
+  11 |   constructor() {
+> 12 |     this.product = new Product({  "./img.jpg","science",  10000 });
+     |                                              ^
+  13 |   }
+  14 | 
+  15 |   ngOnInit() {}
+SyntaxError: ':' expected. (12:46)
+  10 |   product: Product;
+  11 |   constructor() {
+> 12 |     this.product = new Product({  "./img.jpg","science",  10000 });
+     |                                              ^
+  13 |   }
+  14 | 
+  15 |   ngOnInit() {}
+	at t (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-typescript.js:1:349)
+	at Object.parse (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-typescript.js:14:2633274)
+	at Object.parse (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+	at coreFormat (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+	at format (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+	at formatWithCursor (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+	at /home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+	at Object.format (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+	at t.default.<anonymous> (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:58387)
+	at Generator.next (<anonymous>)
+	at s (/home/avi/.vscode-oss/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 4:37:45 PM] Formatting completed in 21.567031ms.
+["INFO" - 4:37:58 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+["INFO" - 4:37:58 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:37:58 PM] Using bundled version of prettier.
+["INFO" - 4:37:58 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 4:37:58 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:37:58 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.component.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:37:58 PM] Formatting completed in 17.949222ms.
+["INFO" - 4:46:06 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+["INFO" - 4:46:06 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:46:06 PM] Using bundled version of prettier.
+["INFO" - 4:46:06 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 4:46:06 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:46:06 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.model.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:46:06 PM] Formatting completed in 75.669264ms.
+["INFO" - 4:47:37 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+["INFO" - 4:47:37 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:47:37 PM] Using bundled version of prettier.
+["INFO" - 4:47:37 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 4:47:37 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:47:37 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.model.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:47:37 PM] Formatting completed in 25.174033ms.
+["INFO" - 4:49:49 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.component.html
+["INFO" - 4:49:49 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:49:49 PM] Using bundled version of prettier.
+["INFO" - 4:49:49 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:49:49 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:49:49 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:49:49 PM] Formatting completed in 105.547839ms.
+["INFO" - 4:53:13 PM] Formatting /home/avi/angular/angular-inventory/src/app/app.component.html
+["INFO" - 4:53:13 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:53:13 PM] Using bundled version of prettier.
+["INFO" - 4:53:13 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:53:13 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:53:13 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:53:13 PM] Formatting completed in 25.707384ms.
+["INFO" - 4:57:32 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.component.html
+["INFO" - 4:57:32 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:57:32 PM] Using bundled version of prettier.
+["INFO" - 4:57:32 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:57:32 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:57:32 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:57:32 PM] Formatting completed in 38.238769ms.
+["INFO" - 4:57:40 PM] Formatting /home/avi/angular/angular-inventory/src/app/product/product.component.html
+["INFO" - 4:57:40 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 4:57:40 PM] Using bundled version of prettier.
+["INFO" - 4:57:40 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 4:57:40 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 4:57:40 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product/product.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 4:57:40 PM] Formatting completed in 26.215459ms.
+["INFO" - 5:00:43 PM] Formatting /home/avi/angular/angular-inventory/src/app/product-list/product-list.model.ts
+["INFO" - 5:00:43 PM] Using ignore file (if present) at /home/avi/angular/angular-inventory/.prettierignore
+["INFO" - 5:00:43 PM] Using bundled version of prettier.
+["INFO" - 5:00:43 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 5:00:43 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 5:00:43 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-inventory/src/app/product-list/product-list.model.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 5:00:43 PM] Formatting completed in 34.720987ms.

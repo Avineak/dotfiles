@@ -1,0 +1,17 @@
+Info 0    [12:39:32.436] Format host information updated
+Info 1    [12:39:32.436] reload projects.
+Info 2    [12:39:32.436] Before ensureProjectForOpenFiles:
+Info 3    [12:39:32.436] After ensureProjectForOpenFiles:
+Info 4    [12:39:32.436] Host file extension mappings updated
+Info 5    [12:39:32.446] Search path: /home/avi/angular/angular-reddit/src/app
+Info 6    [12:39:32.447] For info: /home/avi/angular/angular-reddit/src/app/app.component.html :: No config files found.
+Info 7    [12:39:32.449] Loading global plugin @angular/language-service
+Info 8    [12:39:32.449] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 9    [12:39:32.449] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 10   [12:39:32.518] Plugin validation succeded
+Info 11   [12:39:32.521] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [12:39:33.559] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1038ms
+Info 13   [12:39:33.559] Project '/dev/null/inferredProject1*' (Inferred)
+Info 14   [12:39:33.559] 	Files (6)
+
+Info 15   [12:39:33.559] -----------------------------------------------

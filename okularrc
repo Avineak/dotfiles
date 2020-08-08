@@ -1,0 +1,33 @@
+[Desktop Entry]
+FullScreen=true
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[MainWindow]
+Height 768=768
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAALoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1366
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/TRISULI/SANITARY/Single File/blank.pdf
+File10[$e]=$HOME/Downloads/Compressed/JS for impatient /impatient-js-book 2020-06-23.pdf
+File2[$e]=$HOME/Downloads/TRISULI/final_merge.pdf
+File3[$e]=/media/h2/chanu/all-converted.pdf
+File4[$e]=/media/h4/Computer Engineering/Angular/ng-book2-book-angular-9-r76.pdf
+File5[$e]=$HOME/Regarding Internship.png
+File6[$e]=/media/h4/Computer Engineering/Angular/angular-9-fundamentals.pdf
+File7[$e]=$HOME/Pro Angular 9 Build Powerful and Dynamic Web Apps by Adam Freeman (z-lib.org).pdf
+File8[$e]=/media/h1/Users/Administrator/Desktop/avineak/avineak.pdf
+File9[$e]=$HOME/Vegetation and plantation have only little room for room for error. So, the following points are to be remembered_- Shoots need a lot of sunlight to thrive so proper sunlight should be maintained while sprouting. Som.pdf
+Name1[$e]=blank.pdf
+Name10[$e]=impatient-js-book 2020-06-23.pdf
+Name2[$e]=final_merge.pdf
+Name3[$e]=all-converted.pdf
+Name4[$e]=ng-book2-book-angular-9-r76.pdf
+Name5[$e]=Regarding Internship.png
+Name6[$e]=angular-9-fundamentals.pdf
+Name7[$e]=Pro Angular 9 Build Powerful and Dynamic Web Apps by Adam Freeman (z-lib.org).pdf
+Name8[$e]=avineak.pdf
+Name9[$e]=Vegetation and plantation have only little room for room for error. So, the following points are to be remembered_- Shoots need a lot of sunlight to thrive so proper sunlight should be maintained while sprouting. Som.pdf

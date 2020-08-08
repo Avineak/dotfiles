@@ -1,0 +1,58 @@
+Info 0    [12:46:31.375] Format host information updated
+Info 1    [12:46:31.376] reload projects.
+Info 2    [12:46:31.376] Before ensureProjectForOpenFiles:
+Info 3    [12:46:31.376] After ensureProjectForOpenFiles:
+Info 4    [12:46:31.376] Host file extension mappings updated
+Info 5    [12:46:31.390] Search path: /home/avi/angular/angular-reddit/src/app
+Info 6    [12:46:31.391] For info: /home/avi/angular/angular-reddit/src/app/index.ts :: Config file name: /home/avi/angular/angular-reddit/src/tsconfig.json
+Info 7    [12:46:31.391] Opened configuration file /home/avi/angular/angular-reddit/src/tsconfig.json
+Info 8    [12:46:31.419] Config: /home/avi/angular/angular-reddit/src/tsconfig.json : {
+ "rootNames": [
+  "/home/avi/angular/angular-reddit/src/main.ts",
+  "/home/avi/angular/angular-reddit/src/polyfills.ts",
+  "/home/avi/angular/angular-reddit/src/test.ts",
+  "/home/avi/angular/angular-reddit/src/app/app.component.spec.ts",
+  "/home/avi/angular/angular-reddit/src/app/app.component.ts",
+  "/home/avi/angular/angular-reddit/src/app/app.module.ts",
+  "/home/avi/angular/angular-reddit/src/app/index.ts",
+  "/home/avi/angular/angular-reddit/src/app/article/article.component.spec.ts",
+  "/home/avi/angular/angular-reddit/src/app/article/article.component.ts",
+  "/home/avi/angular/angular-reddit/src/app/article/article.model.ts",
+  "/home/avi/angular/angular-reddit/src/app/shared/index.ts",
+  "/home/avi/angular/angular-reddit/src/environments/environment.prod.ts",
+  "/home/avi/angular/angular-reddit/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/avi/angular/angular-reddit/src",
+  "declaration": false,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true,
+  "lib": [
+   "lib.es2015.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "mapRoot": "./",
+  "module": 5,
+  "moduleResolution": 2,
+  "outDir": "/home/avi/angular/angular-reddit/dist/out-tsc",
+  "sourceMap": true,
+  "target": 1,
+  "typeRoots": [
+   "/home/avi/angular/angular-reddit/node_modules/@types"
+  ],
+  "configFilePath": "/home/avi/angular/angular-reddit/src/tsconfig.json"
+ }
+}
+Info 9    [12:46:31.424] Loading global plugin @angular/language-service
+Info 10   [12:46:31.424] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [12:46:31.424] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 12   [12:46:31.563] Plugin validation succeded
+Info 13   [12:46:31.576] Starting updateGraphWorker: Project: /home/avi/angular/angular-reddit/src/tsconfig.json
+Info 14   [12:47:11.194] Finishing updateGraphWorker: Project: /home/avi/angular/angular-reddit/src/tsconfig.json Version: 1 structureChanged: true Elapsed: 39618ms
+Info 15   [12:47:11.195] Project '/home/avi/angular/angular-reddit/src/tsconfig.json' (Configured)
+Info 16   [12:47:11.195] 	Files (306)
+
+Info 17   [12:47:11.195] -----------------------------------------------
+Info 18   [12:47:11.199] Starting updateGraphWorker: Project: /home/avi/angular/angular-reddit/src/tsconfig.json
+Info 19   [12:47:11.205] Finishing updateGraphWorker: Project: /home/avi/angular/angular-reddit/src/tsconfig.json Version: 2 structureChanged: false Elapsed: 6ms
+Info 20   [12:47:11.212] Disabling language service for /home/avi/angular/angular-reddit/src/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.

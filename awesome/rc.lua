@@ -118,7 +118,7 @@ local filemanager       = "Thunar"
 local mailclient        = "evolution"
 local mediaplayer       = "spotify"
 local scrlocker         = "xlock"
-local terminal          = "kitty"
+local terminal          = "Terminator"
 local virtualmachine    = "virtualbox"
 -- awesome variables
 awful.util.terminal = terminal
@@ -309,7 +309,7 @@ globalkeys = my_table.join(
 
 
     -- super + ... function keys
-	awful.key({ modkey }, "F1", function () awful.util.spawn( "kitty -e lf" ) end,
+	awful.key({ modkey }, "F1", function () awful.util.spawn( "terminator -e lf" ) end,
         {description = browser1, group = "function keys"}),
 	awful.key({ modkey }, "F2", function () awful.util.spawn("brave") end,
         {description = browser , group = "function keys" }),
@@ -319,9 +319,11 @@ globalkeys = my_table.join(
         {description = "vlc" , group = "function keys" }),
     awful.key({ modkey }, "F5", function () awful.util.spawn( "pamac-manager" ) end,
         {description = "pacman installer" , group = "function keys" }),
+    awful.key({ modkey }, "F6", function () awful.util.spawn( "code" ) end,
+        {description = "Vs code" , group = "function keys" }),
 
     -- super + ...
-    awful.key({ modkey }, "Return", function() awful.util.spawn("kitty") end,
+    awful.key({ modkey }, "Return", function() awful.util.spawn("terminator") end,
         {description = terminal, group = "alt+ctrl"}),
 
     -- super + shift + ...
@@ -378,18 +380,18 @@ globalkeys = my_table.join(
              -- {description = "view  previous nonempty", group = "tag"}),
 
     -- Default client focus
-    awful.key({ altkey,           }, "j",
-        function ()
-            awful.client.focus.byidx( 1)
-        end,
-        {description = "focus next by index", group = "client"}
-    ),
-    awful.key({ altkey,           }, "k",
-        function ()
-            awful.client.focus.byidx(-1)
-        end,
-        {description = "focus previous by index", group = "client"}
-    ),
+    -- awful.key({ altkey,           }, "j",
+    --     function ()
+    --         awful.client.focus.byidx( 1)
+    --     end,
+    --     {description = "focus next by index", group = "client"}
+    -- ),
+    -- awful.key({ altkey,           }, "k",
+    --     function ()
+    --         awful.client.focus.byidx(-1)
+    --     end,
+    --     {description = "focus previous by index", group = "client"}
+    -- ),
 
     -- By direction client focus
     awful.key({ modkey }, "j",
@@ -684,6 +686,15 @@ clientkeys = my_table.join(
 -- Bind all key numbers to tags.
 -- Be careful: we use keycodes to make it works on any keyboard layout.
 -- This should map on the top row of your keyboard, usually 1 to 9.
+awful.key({ modkey }, "d",
+						function ()
+										local screen = awful.screen.focused()
+										local tag = screen.tags[5]
+										if tag then
+											 tag:view_only()
+										end
+							end,
+							descr_view)
 for i = 1, 9 do
     -- Hack to only show tags 1 and 9 in the shortcut window (mod+s)
     local descr_view, descr_toggle, descr_move, descr_toggle_focus
@@ -803,6 +814,8 @@ awful.rules.rules = {
     { rule = { class = "zoom" },
          properties = { screen = 1, tag = awful.util.tagnames[4], switchtotag = true } },
 
+    { rule = { class = "code-oss" },
+         properties = { screen = 1, tag = awful.util.tagnames[6], switchtotag = true } },
 
 
     -- Set applications to be maximized at startup.
@@ -812,8 +825,8 @@ awful.rules.rules = {
     { rule = { class = editorgui },
           properties = { maximized = true } },
 
-    { rule = { class = "Terminator" },
-          properties = { maximized = true } },
+    -- { rule = { class = "Terminator" },
+    --       properties = { maximized = true } },
 
     { rule = { class = "Geany" },
           properties = { maximized = false, floating = false } },

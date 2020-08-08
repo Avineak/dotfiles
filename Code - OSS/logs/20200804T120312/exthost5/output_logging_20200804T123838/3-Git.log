@@ -1,0 +1,20 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/avi/angular/angular-reddit
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html

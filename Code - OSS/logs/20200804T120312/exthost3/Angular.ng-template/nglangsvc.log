@@ -1,0 +1,193 @@
+Info 0    [12:36:35.121] Format host information updated
+Info 1    [12:36:35.122] reload projects.
+Info 2    [12:36:35.122] Before ensureProjectForOpenFiles:
+Info 3    [12:36:35.122] After ensureProjectForOpenFiles:
+Info 4    [12:36:35.122] Host file extension mappings updated
+Info 5    [12:36:35.140] Search path: /home/avi/angular/angular-reddit/src/app
+Info 6    [12:36:35.143] For info: /home/avi/angular/angular-reddit/src/app/app.component.ts :: No config files found.
+Info 7    [12:36:35.145] Loading global plugin @angular/language-service
+Info 8    [12:36:35.146] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 9    [12:36:35.146] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 10   [12:36:35.244] Plugin validation succeded
+Info 11   [12:36:35.251] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [12:36:37.404] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 2153ms
+Info 13   [12:36:37.404] Project '/dev/null/inferredProject1*' (Inferred)
+Info 14   [12:36:37.404] 	Files (6)
+
+Info 15   [12:36:37.404] -----------------------------------------------
+Info 16   [12:36:37.431] Search path: /home/avi/angular/angular-reddit/src/app
+Info 17   [12:36:37.431] For info: /home/avi/angular/angular-reddit/src/app/app.component.html :: No config files found.
+Info 18   [12:36:37.432] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [12:36:37.444] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 12ms
+Info 20   [12:36:37.444] Project '/dev/null/inferredProject1*' (Inferred)
+Info 21   [12:36:37.444] 	Files (7)
+
+Info 22   [12:36:37.444] -----------------------------------------------
+Info 23   [12:36:37.445] Search path: /home/avi/angular/angular-reddit/src/app/user-list
+Info 24   [12:36:37.445] For info: /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.ts :: No config files found.
+Info 25   [12:36:37.446] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 26   [12:36:37.470] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true Elapsed: 24ms
+Info 27   [12:36:37.471] Project '/dev/null/inferredProject1*' (Inferred)
+Info 28   [12:36:37.471] 	Files (8)
+
+Info 29   [12:36:37.471] -----------------------------------------------
+Info 30   [12:36:37.472] Search path: /home/avi/angular/angular-reddit/src/app/user-list
+Info 31   [12:36:37.472] For info: /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.html :: No config files found.
+Info 32   [12:36:37.472] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 33   [12:36:37.513] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: true Elapsed: 40ms
+Info 34   [12:36:37.514] Project '/dev/null/inferredProject1*' (Inferred)
+Info 35   [12:36:37.514] 	Files (9)
+
+Info 36   [12:36:37.514] -----------------------------------------------
+Info 37   [12:36:37.515] Search path: /home/avi/angular/angular-reddit/src/app/user-item
+Info 38   [12:36:37.515] For info: /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.ts :: No config files found.
+Info 39   [12:36:37.516] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 40   [12:36:37.536] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: true Elapsed: 20ms
+Info 41   [12:36:37.536] Project '/dev/null/inferredProject1*' (Inferred)
+Info 42   [12:36:37.536] 	Files (10)
+
+Info 43   [12:36:37.536] -----------------------------------------------
+Info 44   [12:36:37.540] Search path: /home/avi/angular/angular-reddit/src/app/user-item
+Info 45   [12:36:37.540] For info: /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.html :: No config files found.
+Info 46   [12:36:37.540] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 47   [12:36:37.547] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: true Elapsed: 7ms
+Info 48   [12:36:37.547] Project '/dev/null/inferredProject1*' (Inferred)
+Info 49   [12:36:37.547] 	Files (11)
+
+Info 50   [12:36:37.547] -----------------------------------------------
+Info 51   [12:36:50.26] FileWatcher:: Triggered with /home/avi/angular/angular-reddit/tsconfig.json 1:: WatchInfo: /home/avi/angular/angular-reddit/tsconfig.json 2000 undefined Project:  WatchType: Config file for the inferred project root
+Info 52   [12:36:50.27] Search path: /home/avi/angular/angular-reddit/src/app
+Info 53   [12:36:50.27] For info: /home/avi/angular/angular-reddit/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-reddit/tsconfig.json
+Info 54   [12:36:50.27] Opened configuration file /home/avi/angular/angular-reddit/tsconfig.json
+Info 55   [12:36:50.29] Search path: /home/avi/angular/angular-reddit/src/app
+Info 56   [12:36:50.29] For info: /home/avi/angular/angular-reddit/src/app/app.component.html :: Config file name: /home/avi/angular/angular-reddit/tsconfig.json
+Info 57   [12:36:50.29] Search path: /home/avi/angular/angular-reddit/src/app/user-list
+Info 58   [12:36:50.29] For info: /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.ts :: Config file name: /home/avi/angular/angular-reddit/tsconfig.json
+Info 59   [12:36:50.29] Search path: /home/avi/angular/angular-reddit/src/app/user-list
+Info 60   [12:36:50.30] For info: /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.html :: Config file name: /home/avi/angular/angular-reddit/tsconfig.json
+Info 61   [12:36:50.30] Search path: /home/avi/angular/angular-reddit/src/app/user-item
+Info 62   [12:36:50.30] For info: /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.ts :: Config file name: /home/avi/angular/angular-reddit/tsconfig.json
+Info 63   [12:36:50.30] Search path: /home/avi/angular/angular-reddit/src/app/user-item
+Info 64   [12:36:50.30] For info: /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.html :: Config file name: /home/avi/angular/angular-reddit/tsconfig.json
+Info 65   [12:36:50.30] Elapsed:: 4ms FileWatcher:: Triggered with /home/avi/angular/angular-reddit/tsconfig.json 1:: WatchInfo: /home/avi/angular/angular-reddit/tsconfig.json 2000 undefined Project:  WatchType: Config file for the inferred project root
+Info 66   [12:36:50.30] FileWatcher:: Triggered with /home/avi/angular/angular-reddit/tsconfig.json 1:: WatchInfo: /home/avi/angular/angular-reddit/tsconfig.json 2000 undefined Project: /home/avi/angular/angular-reddit/tsconfig.json WatchType: Config file
+Info 67   [12:36:50.32] Elapsed:: 2ms FileWatcher:: Triggered with /home/avi/angular/angular-reddit/tsconfig.json 1:: WatchInfo: /home/avi/angular/angular-reddit/tsconfig.json 2000 undefined Project: /home/avi/angular/angular-reddit/tsconfig.json WatchType: Config file
+Info 68   [12:36:50.32] FileWatcher:: Triggered with /home/avi/angular/angular-reddit/tsconfig.json 1:: WatchInfo: /home/avi/angular/angular-reddit/tsconfig.json 2000 undefined Project: /home/avi/angular/angular-reddit/tsconfig.json WatchType: Config file
+Info 69   [12:36:50.32] Elapsed:: 0ms FileWatcher:: Triggered with /home/avi/angular/angular-reddit/tsconfig.json 1:: WatchInfo: /home/avi/angular/angular-reddit/tsconfig.json 2000 undefined Project: /home/avi/angular/angular-reddit/tsconfig.json WatchType: Config file
+Info 70   [12:36:50.145] Search path: /home/avi/angular/angular-reddit/src/app
+Info 71   [12:36:50.145] For info: /home/avi/angular/angular-reddit/src/app/app.component.html :: Config file name: /home/avi/angular/angular-reddit/tsconfig.json
+Info 72   [12:36:50.145] Reloading configured project /home/avi/angular/angular-reddit/tsconfig.json
+Info 73   [12:36:50.172] Config: /home/avi/angular/angular-reddit/tsconfig.json : {
+ "rootNames": [
+  "/home/avi/angular/angular-reddit/e2e/app.e2e-spec.ts",
+  "/home/avi/angular/angular-reddit/e2e/app.po.ts",
+  "/home/avi/angular/angular-reddit/src/main.ts",
+  "/home/avi/angular/angular-reddit/src/polyfills.ts",
+  "/home/avi/angular/angular-reddit/src/test.ts",
+  "/home/avi/angular/angular-reddit/src/typings.d.ts",
+  "/home/avi/angular/angular-reddit/src/app/app.component.spec.ts",
+  "/home/avi/angular/angular-reddit/src/app/app.component.ts",
+  "/home/avi/angular/angular-reddit/src/app/app.module.ts",
+  "/home/avi/angular/angular-reddit/src/app/index.ts",
+  "/home/avi/angular/angular-reddit/src/app/article/article.component.spec.ts",
+  "/home/avi/angular/angular-reddit/src/app/article/article.component.ts",
+  "/home/avi/angular/angular-reddit/src/app/article/article.model.ts",
+  "/home/avi/angular/angular-reddit/src/app/shared/index.ts",
+  "/home/avi/angular/angular-reddit/src/environments/environment.prod.ts",
+  "/home/avi/angular/angular-reddit/src/environments/environment.ts",
+  "/home/avi/angular/angular-reddit/steps/src/app/app.component.1.ts",
+  "/home/avi/angular/angular-reddit/steps/src/app/app.component.2.ts",
+  "/home/avi/angular/angular-reddit/steps/src/app/app.component.3.ts",
+  "/home/avi/angular/angular-reddit/steps/src/app/article/article.component.1.ts",
+  "/home/avi/angular/angular-reddit/steps/src/app/article/article.component.2.ts",
+  "/home/avi/angular/angular-reddit/steps/src/app/article/article.component.3.ts",
+  "/home/avi/angular/angular-reddit/steps/src/app/article/article.model.1.ts"
+ ],
+ "options": {
+  "module": 99,
+  "outDir": "/home/avi/angular/angular-reddit/dist/out-tsc",
+  "sourceMap": true,
+  "declaration": false,
+  "moduleResolution": 2,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true,
+  "target": 2,
+  "typeRoots": [
+   "/home/avi/angular/angular-reddit/node_modules/@types"
+  ],
+  "lib": [
+   "lib.es2017.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "configFilePath": "/home/avi/angular/angular-reddit/tsconfig.json"
+ }
+}
+Info 74   [12:36:50.176] Loading global plugin @angular/language-service
+Info 75   [12:36:50.176] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 76   [12:36:50.176] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 77   [12:36:50.186] Plugin validation succeded
+Info 78   [12:36:50.192] Starting updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json
+Info 79   [12:36:51.144] Finishing updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json Version: 1 structureChanged: true Elapsed: 952ms
+Info 80   [12:36:51.144] Project '/home/avi/angular/angular-reddit/tsconfig.json' (Configured)
+Info 81   [12:36:51.144] 	Files (43)
+
+Info 82   [12:36:51.144] -----------------------------------------------
+Info 83   [12:36:51.145] Starting updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json
+Info 84   [12:36:51.145] Finishing updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json Version: 2 structureChanged: false Elapsed: 0ms
+Info 85   [12:36:51.147] Disabling language service for /home/avi/angular/angular-reddit/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+Info 86   [12:36:51.148] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 87   [12:36:51.160] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: true Elapsed: 12ms
+Info 88   [12:36:51.160] Project '/dev/null/inferredProject1*' (Inferred)
+Info 89   [12:36:51.160] 	Files (10)
+
+Info 90   [12:36:51.160] -----------------------------------------------
+Info 91   [12:36:52.531] Before ensureProjectForOpenFiles:
+Info 92   [12:36:52.532] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 93   [12:36:52.540] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: true Elapsed: 8ms
+Info 94   [12:36:52.540] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 95   [12:36:52.540] After ensureProjectForOpenFiles:
+Info 96   [12:36:52.741] Search path: /home/avi/angular/angular-reddit/src/app/user-list
+Info 97   [12:36:52.741] For info: /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.ts :: Config file name: /home/avi/angular/angular-reddit/tsconfig.json
+Info 98   [12:36:52.741] Starting updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json
+Info 99   [12:36:52.777] Finishing updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json Version: 3 structureChanged: true Elapsed: 35ms
+Info 100  [12:36:52.777] Project '/home/avi/angular/angular-reddit/tsconfig.json' (Configured)
+Info 101  [12:36:52.777] 	Files (22)
+
+Info 102  [12:36:52.777] -----------------------------------------------
+Info 103  [12:36:52.778] Search path: /home/avi/angular/angular-reddit/src/app/user-list
+Info 104  [12:36:52.779] For info: /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.html :: Config file name: /home/avi/angular/angular-reddit/tsconfig.json
+Info 105  [12:36:52.779] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 106  [12:36:52.781] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: true Elapsed: 2ms
+Info 107  [12:36:52.782] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 108  [12:36:52.782] Search path: /home/avi/angular/angular-reddit/src/app/user-item
+Info 109  [12:36:52.782] For info: /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.ts :: Config file name: /home/avi/angular/angular-reddit/tsconfig.json
+Info 110  [12:36:52.782] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 111  [12:36:52.784] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: true Elapsed: 2ms
+Info 112  [12:36:52.785] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 113  [12:36:52.791] Search path: /home/avi/angular/angular-reddit/src/app/user-item
+Info 114  [12:36:52.792] For info: /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.html :: Config file name: /home/avi/angular/angular-reddit/tsconfig.json
+Info 115  [12:36:52.792] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 116  [12:36:52.794] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: true Elapsed: 2ms
+Info 117  [12:36:52.794] Different program with same set of files:: oldProgram.structureIsReused:: 0
+Info 118  [12:37:53.829] Starting updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json
+Info 119  [12:37:53.830] Finishing updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json Version: 4 structureChanged: false Elapsed: 1ms
+Info 120  [12:37:53.830] Project '/home/avi/angular/angular-reddit/tsconfig.json' (Configured)
+Info 121  [12:37:53.830] 	Files (22)
+
+Info 122  [12:37:53.830] -----------------------------------------------
+Info 123  [12:37:54.550] Starting updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json
+Info 124  [12:37:54.553] Finishing updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json Version: 5 structureChanged: false Elapsed: 2ms
+Info 125  [12:37:56.801] Before ensureProjectForOpenFiles:
+Info 126  [12:37:56.802] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 127  [12:37:56.805] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: true Elapsed: 3ms
+Info 128  [12:37:56.805] Project '/dev/null/inferredProject1*' (Inferred)
+Info 129  [12:37:56.805] 	Files (0)
+
+Info 130  [12:37:56.805] -----------------------------------------------
+Info 131  [12:37:56.805] After ensureProjectForOpenFiles:
+Info 132  [12:37:57.84] Starting updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json
+Info 133  [12:37:57.85] Finishing updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json Version: 6 structureChanged: false Elapsed: 1ms
+Info 134  [12:37:58.227] Starting updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json
+Info 135  [12:37:58.228] Finishing updateGraphWorker: Project: /home/avi/angular/angular-reddit/tsconfig.json Version: 7 structureChanged: false Elapsed: 1ms
+Info 136  [12:38:0.478] Before ensureProjectForOpenFiles:
+Info 137  [12:38:0.478] After ensureProjectForOpenFiles:

@@ -1,0 +1,57 @@
+Info 0    [13:40:47.592] Format host information updated
+Info 1    [13:40:47.593] reload projects.
+Info 2    [13:40:47.593] Before ensureProjectForOpenFiles:
+Info 3    [13:40:47.639] After ensureProjectForOpenFiles:
+Info 4    [13:40:47.640] Host file extension mappings updated
+Info 5    [13:40:47.666] Search path: /home/avi/angular/angular-basics/one/first/src/app/ang-ref
+Info 6    [13:40:47.668] For info: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 7    [13:40:47.669] Opened configuration file /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 8    [13:40:47.717] Config: /home/avi/angular/angular-basics/one/first/src/tsconfig.json : {
+ "rootNames": [
+  "/home/avi/angular/angular-basics/one/first/src/main.ts",
+  "/home/avi/angular/angular-basics/one/first/src/polyfills.ts",
+  "/home/avi/angular/angular-basics/one/first/src/test.ts",
+  "/home/avi/angular/angular-basics/one/first/src/app/app.component.spec.ts",
+  "/home/avi/angular/angular-basics/one/first/src/app/app.component.ts",
+  "/home/avi/angular/angular-basics/one/first/src/app/app.module.ts",
+  "/home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.spec.ts",
+  "/home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.ts",
+  "/home/avi/angular/angular-basics/one/first/src/environments/environment.prod.ts",
+  "/home/avi/angular/angular-basics/one/first/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/avi/angular/angular-basics/one/first/src",
+  "declaration": false,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true,
+  "lib": [
+   "lib.es2015.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "mapRoot": "./",
+  "module": 5,
+  "moduleResolution": 2,
+  "outDir": "/home/avi/angular/angular-basics/one/first/dist/out-tsc",
+  "sourceMap": true,
+  "target": 1,
+  "typeRoots": [
+   "/home/avi/angular/angular-basics/one/first/node_modules/@types"
+  ],
+  "configFilePath": "/home/avi/angular/angular-basics/one/first/src/tsconfig.json"
+ }
+}
+Info 9    [13:40:47.726] Loading global plugin @angular/language-service
+Info 10   [13:40:47.727] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [13:40:47.727] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 12   [13:40:47.927] Plugin validation succeded
+Info 13   [13:40:47.965] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 14   [13:40:52.265] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 1 structureChanged: true Elapsed: 4299ms
+Info 15   [13:40:52.265] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 16   [13:40:52.265] 	Files (303)
+
+Info 17   [13:40:52.265] -----------------------------------------------
+Info 18   [13:40:52.267] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 19   [13:40:52.272] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 2 structureChanged: false Elapsed: 5ms
+Info 20   [13:40:52.275] Disabling language service for /home/avi/angular/angular-basics/one/first/src/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+Info 21   [13:41:17.616] Search path: /home/avi/angular/angular-basics/one/first/src/app/ang-ref
+Info 22   [13:41:17.617] For info: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json

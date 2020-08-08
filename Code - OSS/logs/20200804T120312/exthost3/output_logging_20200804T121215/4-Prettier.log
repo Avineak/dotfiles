@@ -1,0 +1,339 @@
+["INFO" - 12:12:15 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 12:12:15 PM] Extension Version: 5.1.3.
+["INFO" - 12:12:16 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:12:16 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:16:22 PM] Formatting /home/avi/angular/angular-reddit/src/app/app.component.html
+["INFO" - 12:16:22 PM] Using ignore file (if present) at /home/avi/angular/angular-reddit/.prettierignore
+["INFO" - 12:16:22 PM] Using bundled version of prettier.
+["INFO" - 12:16:22 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 12:16:22 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 12:16:22 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-reddit/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 12:16:22 PM] Formatting completed in 158.57636ms.
+["INFO" - 12:18:13 PM] Formatting /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.ts
+["INFO" - 12:18:13 PM] Using ignore file (if present) at /home/avi/angular/angular-reddit/.prettierignore
+["INFO" - 12:18:13 PM] Using bundled version of prettier.
+["INFO" - 12:18:13 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 12:18:13 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 12:18:13 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-reddit/src/app/user-list/user-list.component.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 12:18:13 PM] Formatting completed in 346.025474ms.
+["INFO" - 12:18:56 PM] Formatting /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.html
+["INFO" - 12:18:56 PM] Using ignore file (if present) at /home/avi/angular/angular-reddit/.prettierignore
+["INFO" - 12:18:56 PM] Using bundled version of prettier.
+["INFO" - 12:18:56 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 12:18:56 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 12:18:56 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-reddit/src/app/user-list/user-list.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 12:18:56 PM] Formatting completed in 49.336034ms.
+["INFO" - 12:19:55 PM] Formatting /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.html
+["INFO" - 12:19:55 PM] Using ignore file (if present) at /home/avi/angular/angular-reddit/.prettierignore
+["INFO" - 12:19:55 PM] Using bundled version of prettier.
+["INFO" - 12:19:55 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 12:19:55 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 12:19:55 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-reddit/src/app/user-list/user-list.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 12:19:55 PM] Formatting completed in 36.872084ms.
+["INFO" - 12:21:10 PM] Formatting /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.ts
+["INFO" - 12:21:10 PM] Using ignore file (if present) at /home/avi/angular/angular-reddit/.prettierignore
+["INFO" - 12:21:10 PM] Using bundled version of prettier.
+["INFO" - 12:21:10 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 12:21:10 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 12:21:10 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-reddit/src/app/user-item/user-item.component.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 12:21:10 PM] Formatting completed in 64.039445ms.
+["INFO" - 12:21:19 PM] Formatting /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.ts
+["INFO" - 12:21:19 PM] Using ignore file (if present) at /home/avi/angular/angular-reddit/.prettierignore
+["INFO" - 12:21:19 PM] Using bundled version of prettier.
+["INFO" - 12:21:19 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 12:21:19 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 12:21:19 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-reddit/src/app/user-item/user-item.component.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 12:21:19 PM] Formatting completed in 15.89408ms.
+["INFO" - 12:22:20 PM] Formatting /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.html
+["INFO" - 12:22:20 PM] Using ignore file (if present) at /home/avi/angular/angular-reddit/.prettierignore
+["INFO" - 12:22:20 PM] Using bundled version of prettier.
+["INFO" - 12:22:20 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 12:22:20 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 12:22:20 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-reddit/src/app/user-item/user-item.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 12:22:20 PM] Formatting completed in 24.375315ms.
+["INFO" - 12:22:33 PM] Formatting /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.html
+["INFO" - 12:22:33 PM] Using ignore file (if present) at /home/avi/angular/angular-reddit/.prettierignore
+["INFO" - 12:22:33 PM] Using bundled version of prettier.
+["INFO" - 12:22:33 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 12:22:33 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 12:22:33 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-reddit/src/app/user-item/user-item.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 12:22:33 PM] Formatting completed in 19.285757ms.
+["INFO" - 12:23:30 PM] Formatting /home/avi/angular/angular-reddit/src/app/app.component.html
+["INFO" - 12:23:30 PM] Using ignore file (if present) at /home/avi/angular/angular-reddit/.prettierignore
+["INFO" - 12:23:30 PM] Using bundled version of prettier.
+["INFO" - 12:23:30 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 12:23:30 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 12:23:30 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-reddit/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 12:23:30 PM] Formatting completed in 18.233586ms.
+["INFO" - 12:26:23 PM] Formatting /home/avi/angular/angular-reddit/src/app/app.component.html
+["INFO" - 12:26:23 PM] Using ignore file (if present) at /home/avi/angular/angular-reddit/.prettierignore
+["INFO" - 12:26:23 PM] Using bundled version of prettier.
+["INFO" - 12:26:23 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 12:26:23 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 12:26:23 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-reddit/src/app/app.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 12:26:23 PM] Formatting completed in 21.365978ms.
+["INFO" - 12:26:47 PM] Formatting /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.html
+["INFO" - 12:26:47 PM] Using ignore file (if present) at /home/avi/angular/angular-reddit/.prettierignore
+["INFO" - 12:26:47 PM] Using bundled version of prettier.
+["INFO" - 12:26:47 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "angular"
+}
+["INFO" - 12:26:47 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 12:26:47 PM] Prettier Options:
+{
+  "filepath": "/home/avi/angular/angular-reddit/src/app/user-list/user-list.component.html",
+  "parser": "angular",
+  "useTabs": false,
+  "tabWidth": 2
+}
+["INFO" - 12:26:47 PM] Formatting completed in 24.569398ms.
+["INFO" - 12:36:30 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:36:30 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:36:30 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:36:30 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:36:50 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:36:50 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 12:36:50 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 12:36:50 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]

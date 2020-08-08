@@ -1,0 +1,33 @@
+Info 0    [19:10:22.112] Format host information updated
+Info 1    [19:10:22.113] reload projects.
+Info 2    [19:10:22.113] Before ensureProjectForOpenFiles:
+Info 3    [19:10:22.113] After ensureProjectForOpenFiles:
+Info 4    [19:10:22.113] Host file extension mappings updated
+Info 5    [19:10:22.123] Search path: /home/avi/test
+Info 6    [19:10:22.124] For info: /home/avi/test/index.html :: No config files found.
+Info 7    [19:10:22.126] Loading global plugin @angular/language-service
+Info 8    [19:10:22.126] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 9    [19:10:22.126] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 10   [19:10:22.192] Plugin validation succeded
+Info 11   [19:10:22.194] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [19:10:23.172] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 978ms
+Info 13   [19:10:23.172] Project '/dev/null/inferredProject1*' (Inferred)
+Info 14   [19:10:23.172] 	Files (6)
+
+Info 15   [19:10:23.172] -----------------------------------------------
+Info 16   [19:10:39.325] Search path: /home/avi/test
+Info 17   [19:10:39.326] For info: /home/avi/test/index.html :: No config files found.
+Info 18   [19:10:39.824] Search path: /home/avi/test
+Info 19   [19:10:39.825] For info: /home/avi/test/index.html :: No config files found.
+Info 20   [19:10:40.26] Search path: /home/avi/test
+Info 21   [19:10:40.27] For info: /home/avi/test/index.html :: No config files found.
+Info 22   [19:10:40.428] Search path: /home/avi/test
+Info 23   [19:10:40.429] For info: /home/avi/test/index.html :: No config files found.
+Info 24   [19:11:22.452] Search path: /home/avi/test
+Info 25   [19:11:22.453] For info: /home/avi/test/index.html :: No config files found.
+Info 26   [19:11:22.453] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 27   [19:11:22.454] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 1ms
+Info 28   [19:11:22.454] Project '/dev/null/inferredProject1*' (Inferred)
+Info 29   [19:11:22.454] 	Files (6)
+
+Info 30   [19:11:22.454] -----------------------------------------------

@@ -1,0 +1,6 @@
+[Info  - 7:10:22 PM] Angular language server process ID: 15582
+[Info  - 7:10:22 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 7:10:22 PM] Using @angular/language-service v10.0.7 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 7:10:22 PM] Log file: /home/avi/.config/Code - OSS/logs/20200801T190938/exthost1/Angular.ng-template/nglangsvc.log
+[Error - 7:10:23 PM] No config file for /home/avi/test/index.html
+[Error - 7:11:22 PM] No config file for /home/avi/test/index.html

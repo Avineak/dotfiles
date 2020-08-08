@@ -1,0 +1,478 @@
+Info 0    [11:43:59.604] Format host information updated
+Info 1    [11:43:59.604] reload projects.
+Info 2    [11:43:59.604] Before ensureProjectForOpenFiles:
+Info 3    [11:43:59.605] After ensureProjectForOpenFiles:
+Info 4    [11:43:59.605] Host file extension mappings updated
+Info 5    [11:43:59.622] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 6    [11:43:59.623] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 7    [11:43:59.624] Opened configuration file /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 8    [11:43:59.661] Config: /home/avi/angular/angular-basics/one/first/src/tsconfig.json : {
+ "rootNames": [
+  "/home/avi/angular/angular-basics/one/first/src/main.ts",
+  "/home/avi/angular/angular-basics/one/first/src/polyfills.ts",
+  "/home/avi/angular/angular-basics/one/first/src/test.ts",
+  "/home/avi/angular/angular-basics/one/first/src/app/app.component.spec.ts",
+  "/home/avi/angular/angular-basics/one/first/src/app/app.component.ts",
+  "/home/avi/angular/angular-basics/one/first/src/app/app.module.ts",
+  "/home/avi/angular/angular-basics/one/first/src/environments/environment.prod.ts",
+  "/home/avi/angular/angular-basics/one/first/src/environments/environment.ts"
+ ],
+ "options": {
+  "baseUrl": "/home/avi/angular/angular-basics/one/first/src",
+  "declaration": false,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true,
+  "lib": [
+   "lib.es2015.d.ts",
+   "lib.dom.d.ts"
+  ],
+  "mapRoot": "./",
+  "module": 5,
+  "moduleResolution": 2,
+  "outDir": "/home/avi/angular/angular-basics/one/first/dist/out-tsc",
+  "sourceMap": true,
+  "target": 1,
+  "typeRoots": [
+   "/home/avi/angular/angular-basics/one/first/node_modules/@types"
+  ],
+  "configFilePath": "/home/avi/angular/angular-basics/one/first/src/tsconfig.json"
+ }
+}
+Info 9    [11:43:59.672] Loading global plugin @angular/language-service
+Info 10   [11:43:59.673] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 11   [11:43:59.673] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 12   [11:44:0.13] Plugin validation succeded
+Info 13   [11:44:0.24] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 14   [11:44:3.578] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 1 structureChanged: true Elapsed: 3554ms
+Info 15   [11:44:3.578] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 16   [11:44:3.578] 	Files (20)
+
+Info 17   [11:44:3.578] -----------------------------------------------
+Info 18   [11:44:3.579] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 19   [11:44:3.580] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 2 structureChanged: false Elapsed: 1ms
+Info 20   [11:44:3.583] Disabling language service for /home/avi/angular/angular-basics/one/first/src/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+Info 21   [11:44:9.628] DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 22   [11:44:9.633] Elapsed:: 5ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 23   [11:44:9.885] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 24   [11:44:9.950] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 3 structureChanged: true Elapsed: 64ms
+Info 25   [11:44:9.950] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 26   [11:44:9.950] 	Files (13)
+
+Info 27   [11:44:9.950] -----------------------------------------------
+Info 28   [11:44:12.133] Before ensureProjectForOpenFiles:
+Info 29   [11:44:12.133] After ensureProjectForOpenFiles:
+Info 30   [11:44:33.952] DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 31   [11:44:33.952] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 32   [11:44:34.209] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 33   [11:44:35.924] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 4 structureChanged: true Elapsed: 1714ms
+Info 34   [11:44:35.924] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 35   [11:44:35.924] 	Files (25)
+
+Info 36   [11:44:35.924] -----------------------------------------------
+Info 37   [11:44:36.453] Before ensureProjectForOpenFiles:
+Info 38   [11:44:36.453] After ensureProjectForOpenFiles:
+Info 39   [11:44:39.81] DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 40   [11:44:39.81] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 41   [11:44:39.81] DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 42   [11:44:39.82] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 43   [11:44:39.331] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 44   [11:44:39.394] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 5 structureChanged: true Elapsed: 63ms
+Info 45   [11:44:39.394] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 46   [11:44:41.582] Before ensureProjectForOpenFiles:
+Info 47   [11:44:41.582] After ensureProjectForOpenFiles:
+Info 48   [11:44:42.905] DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 49   [11:44:42.906] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 50   [11:44:42.906] DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 51   [11:44:42.906] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/node_modules :: WatchInfo: /home/avi/angular/angular-basics/one/first/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 52   [11:44:43.156] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 53   [11:44:43.206] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 6 structureChanged: true Elapsed: 50ms
+Info 54   [11:44:43.206] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 55   [11:44:45.406] Before ensureProjectForOpenFiles:
+Info 56   [11:44:45.406] After ensureProjectForOpenFiles:
+Info 57   [11:51:55.421] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 58   [11:51:55.422] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.html :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 59   [11:51:55.422] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 60   [11:51:56.366] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 7 structureChanged: true Elapsed: 944ms
+Info 61   [11:51:56.366] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 62   [11:51:56.366] 	Files (126)
+
+Info 63   [11:51:56.366] -----------------------------------------------
+Info 64   [11:51:56.369] Loading global plugin @angular/language-service
+Info 65   [11:51:56.370] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 66   [11:51:56.370] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 67   [11:51:56.413] Plugin validation succeded
+Info 68   [11:51:56.415] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 69   [11:51:56.969] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 554ms
+Info 70   [11:51:56.969] Project '/dev/null/inferredProject1*' (Inferred)
+Info 71   [11:51:56.969] 	Files (6)
+
+Info 72   [11:51:56.969] -----------------------------------------------
+Info 73   [11:53:34.737] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 74   [11:53:34.737] For info: /home/avi/angular/angular-basics/one/first/src/app/app.module.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 75   [11:53:34.737] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 76   [11:53:34.768] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 8 structureChanged: false Elapsed: 31ms
+Info 77   [11:53:34.768] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 78   [11:53:34.769] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 79   [11:53:36.103] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true Elapsed: 1334ms
+Info 80   [11:53:36.103] Project '/dev/null/inferredProject1*' (Inferred)
+Info 81   [11:53:36.103] 	Files (212)
+
+Info 82   [11:53:36.103] -----------------------------------------------
+Info 83   [11:53:37.595] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 84   [11:53:37.595] For info: /home/avi/angular/angular-basics/one/first/src/app/app.module.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 85   [11:56:4.393] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 86   [11:56:4.393] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.html :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 87   [11:56:4.393] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 88   [11:56:4.403] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 9 structureChanged: false Elapsed: 10ms
+Info 89   [11:56:4.403] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 90   [11:56:4.403] 	Files (126)
+
+Info 91   [11:56:4.403] -----------------------------------------------
+Info 92   [11:56:4.404] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 93   [11:56:4.516] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: true Elapsed: 111ms
+Info 94   [11:56:4.516] Project '/dev/null/inferredProject1*' (Inferred)
+Info 95   [11:56:4.516] 	Files (6)
+
+Info 96   [11:56:4.516] -----------------------------------------------
+Info 97   [12:3:59.361] Search path: /home/avi/angular/angular-basics/one/first/src
+Info 98   [12:3:59.362] For info: /home/avi/angular/angular-basics/one/first/src/main.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 99   [12:3:59.362] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 100  [12:3:59.364] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 10 structureChanged: false Elapsed: 2ms
+Info 101  [12:3:59.365] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 102  [12:4:0.543] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: true Elapsed: 1178ms
+Info 103  [12:4:0.543] Project '/dev/null/inferredProject1*' (Inferred)
+Info 104  [12:4:0.543] 	Files (237)
+
+Info 105  [12:4:0.543] -----------------------------------------------
+Info 106  [12:4:14.414] Search path: /home/avi/angular/angular-basics/one/first/src
+Info 107  [12:4:14.414] For info: /home/avi/angular/angular-basics/one/first/src/main.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 108  [12:4:14.414] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 109  [12:4:14.464] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: true Elapsed: 50ms
+Info 110  [12:4:14.464] Project '/dev/null/inferredProject1*' (Inferred)
+Info 111  [12:4:14.464] 	Files (6)
+
+Info 112  [12:4:14.464] -----------------------------------------------
+Info 113  [12:11:16.267] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 114  [12:11:16.267] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 115  [12:11:16.267] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 116  [12:11:16.269] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 11 structureChanged: false Elapsed: 2ms
+Info 117  [12:11:16.269] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 118  [12:11:16.269] 	Files (126)
+
+Info 119  [12:11:16.269] -----------------------------------------------
+Info 120  [12:11:16.270] `remove Project::
+Info 121  [12:11:16.270] Project '/dev/null/inferredProject1*' (Inferred)
+Info 122  [12:11:16.270] 	Files (6)
+
+Info 123  [12:11:16.270] -----------------------------------------------
+Info 124  [12:11:20.860] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 125  [12:11:20.860] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.html :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 126  [12:11:20.860] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 127  [12:11:20.885] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 12 structureChanged: true Elapsed: 25ms
+Info 128  [12:11:20.885] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 129  [12:11:20.886] 	Files (0)
+
+Info 130  [12:11:20.886] -----------------------------------------------
+Info 131  [12:11:20.893] Loading global plugin @angular/language-service
+Info 132  [12:11:20.893] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 133  [12:11:20.893] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 134  [12:11:20.995] Plugin validation succeded
+Info 135  [12:11:20.998] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 136  [12:11:21.88] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 1 structureChanged: true Elapsed: 90ms
+Info 137  [12:11:21.88] Project '/dev/null/inferredProject2*' (Inferred)
+Info 138  [12:11:21.88] 	Files (6)
+
+Info 139  [12:11:21.88] -----------------------------------------------
+Info 140  [12:11:23.999] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 141  [12:11:23.999] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.html :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 142  [12:11:24.1] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 143  [12:11:24.1] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 2 structureChanged: false Elapsed: 0ms
+Info 144  [12:11:24.1] Project '/dev/null/inferredProject2*' (Inferred)
+Info 145  [12:11:24.1] 	Files (6)
+
+Info 146  [12:11:24.1] -----------------------------------------------
+Info 147  [12:11:30.244] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 148  [12:11:30.244] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 149  [12:11:30.248] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 150  [12:11:30.845] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 3 structureChanged: true Elapsed: 597ms
+Info 151  [12:11:30.845] Project '/dev/null/inferredProject2*' (Inferred)
+Info 152  [12:11:30.850] 	Files (107)
+
+Info 153  [12:11:30.850] -----------------------------------------------
+Info 154  [12:11:34.143] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 155  [12:11:34.143] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 156  [12:11:34.143] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 157  [12:11:34.160] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 4 structureChanged: false Elapsed: 17ms
+Info 158  [12:11:34.161] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 159  [12:23:43.719] DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src :: WatchInfo: /home/avi/angular/angular-basics/one/first/src 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Wild card directory
+Info 160  [12:23:43.720] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src :: WatchInfo: /home/avi/angular/angular-basics/one/first/src 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Wild card directory
+Info 161  [12:23:43.982] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 162  [12:23:43.982] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 13 structureChanged: false Elapsed: 0ms
+Info 163  [12:23:43.982] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 164  [12:23:43.982] 	Files (0)
+
+Info 165  [12:23:43.982] -----------------------------------------------
+Info 166  [12:23:46.222] Before ensureProjectForOpenFiles:
+Info 167  [12:23:46.222] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 168  [12:23:46.239] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 5 structureChanged: true Elapsed: 17ms
+Info 169  [12:23:46.240] Project '/dev/null/inferredProject2*' (Inferred)
+Info 170  [12:23:46.240] 	Files (0)
+
+Info 171  [12:23:46.240] -----------------------------------------------
+Info 172  [12:23:46.240] After ensureProjectForOpenFiles:
+Info 173  [12:26:13.349] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 174  [12:26:13.349] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 175  [12:26:13.349] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 176  [12:26:14.192] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 14 structureChanged: true Elapsed: 843ms
+Info 177  [12:26:14.192] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 178  [12:26:14.192] 	Files (126)
+
+Info 179  [12:26:14.192] -----------------------------------------------
+Info 180  [12:26:14.193] `remove Project::
+Info 181  [12:26:14.193] Project '/dev/null/inferredProject2*' (Inferred)
+Info 182  [12:26:14.193] 	Files (0)
+
+Info 183  [12:26:14.193] -----------------------------------------------
+Info 184  [12:26:15.773] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 185  [12:26:15.774] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.html :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 186  [12:26:15.774] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 187  [12:26:15.795] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 15 structureChanged: true Elapsed: 21ms
+Info 188  [12:26:15.795] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 189  [12:26:15.795] 	Files (0)
+
+Info 190  [12:26:15.795] -----------------------------------------------
+Info 191  [12:26:15.795] Loading global plugin @angular/language-service
+Info 192  [12:26:15.796] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 193  [12:26:15.796] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 194  [12:26:15.814] Plugin validation succeded
+Info 195  [12:26:15.815] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 196  [12:26:15.887] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 1 structureChanged: true Elapsed: 72ms
+Info 197  [12:26:15.887] Project '/dev/null/inferredProject3*' (Inferred)
+Info 198  [12:26:15.887] 	Files (6)
+
+Info 199  [12:26:15.887] -----------------------------------------------
+Info 200  [12:26:20.901] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 201  [12:26:20.901] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.html :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 202  [12:26:20.903] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 203  [12:26:20.903] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 2 structureChanged: false Elapsed: 0ms
+Info 204  [12:26:20.903] Project '/dev/null/inferredProject3*' (Inferred)
+Info 205  [12:26:20.903] 	Files (6)
+
+Info 206  [12:26:20.903] -----------------------------------------------
+Info 207  [12:26:21.421] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 208  [12:26:21.421] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 209  [12:26:21.422] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 210  [12:26:21.959] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 3 structureChanged: true Elapsed: 537ms
+Info 211  [12:26:21.959] Project '/dev/null/inferredProject3*' (Inferred)
+Info 212  [12:26:21.959] 	Files (107)
+
+Info 213  [12:26:21.959] -----------------------------------------------
+Info 214  [12:26:47.2] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 215  [12:26:47.2] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 216  [12:26:47.2] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 217  [12:26:47.37] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 4 structureChanged: false Elapsed: 35ms
+Info 218  [12:26:47.37] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 219  [12:28:24.809] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 220  [12:28:24.809] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.spec.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 221  [12:28:24.809] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 222  [12:28:25.546] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 16 structureChanged: true Elapsed: 737ms
+Info 223  [12:28:25.546] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 224  [12:28:25.546] 	Files (137)
+
+Info 225  [12:28:25.546] -----------------------------------------------
+Info 226  [12:28:25.546] `remove Project::
+Info 227  [12:28:25.546] Project '/dev/null/inferredProject3*' (Inferred)
+Info 228  [12:28:25.546] 	Files (107)
+
+Info 229  [12:28:25.546] -----------------------------------------------
+Info 230  [12:28:34.545] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 231  [12:28:34.545] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.html :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 232  [12:28:34.545] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 233  [12:28:34.616] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 17 structureChanged: true Elapsed: 71ms
+Info 234  [12:28:34.616] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 235  [12:28:34.616] 	Files (126)
+
+Info 236  [12:28:34.616] -----------------------------------------------
+Info 237  [12:28:34.617] Loading global plugin @angular/language-service
+Info 238  [12:28:34.617] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 239  [12:28:34.617] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 240  [12:28:34.638] Plugin validation succeded
+Info 241  [12:28:34.639] Starting updateGraphWorker: Project: /dev/null/inferredProject4*
+Info 242  [12:28:34.739] Finishing updateGraphWorker: Project: /dev/null/inferredProject4* Version: 1 structureChanged: true Elapsed: 100ms
+Info 243  [12:28:34.739] Project '/dev/null/inferredProject4*' (Inferred)
+Info 244  [12:28:34.739] 	Files (6)
+
+Info 245  [12:28:34.739] -----------------------------------------------
+Info 246  [12:53:35.99] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 247  [12:53:35.99] For info: /home/avi/angular/angular-basics/one/first/src/app/app.module.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 248  [12:53:35.99] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 249  [12:53:35.850] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 18 structureChanged: true Elapsed: 751ms
+Info 250  [12:53:35.850] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 251  [12:53:35.850] 	Files (185)
+
+Info 252  [12:53:35.850] -----------------------------------------------
+Info 253  [12:53:35.850] `remove Project::
+Info 254  [12:53:35.850] Project '/dev/null/inferredProject4*' (Inferred)
+Info 255  [12:53:35.850] 	Files (6)
+
+Info 256  [12:53:35.850] -----------------------------------------------
+Info 257  [13:12:13.140] FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 258  [13:12:13.141] Elapsed:: 1ms FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 259  [13:12:13.143] FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 260  [13:12:13.143] Elapsed:: 0ms FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 261  [13:12:13.144] FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 262  [13:12:13.144] Elapsed:: 0ms FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 263  [13:12:13.144] FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 264  [13:12:13.144] Elapsed:: 0ms FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/app.module.ts 500 undefined Project:  WatchType: Closed Script info
+Info 265  [13:12:13.395] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 266  [13:12:13.433] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 19 structureChanged: true Elapsed: 38ms
+Info 267  [13:12:13.433] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 268  [13:12:13.433] 	Files (0)
+
+Info 269  [13:12:13.433] -----------------------------------------------
+Info 270  [13:12:14.111] DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src :: WatchInfo: /home/avi/angular/angular-basics/one/first/src 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Wild card directory
+Info 271  [13:12:14.112] Elapsed:: 1ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src :: WatchInfo: /home/avi/angular/angular-basics/one/first/src 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Wild card directory
+Info 272  [13:12:14.112] DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app :: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 273  [13:12:14.112] Elapsed:: 0ms DirectoryWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app :: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app 1 undefined Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json WatchType: Failed Lookup Locations
+Info 274  [13:12:14.430] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 275  [13:12:14.431] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 20 structureChanged: false Elapsed: 1ms
+Info 276  [13:12:14.431] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 277  [13:12:14.431] 	Files (0)
+
+Info 278  [13:12:14.431] -----------------------------------------------
+Info 279  [13:12:16.613] Before ensureProjectForOpenFiles:
+Info 280  [13:12:16.613] After ensureProjectForOpenFiles:
+Info 281  [13:12:26.884] Search path: /home/avi/angular/angular-basics/one/first/src/app/ang-ref
+Info 282  [13:12:26.885] For info: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 283  [13:12:26.886] Loading global plugin @angular/language-service
+Info 284  [13:12:26.886] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 285  [13:12:26.886] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 286  [13:12:26.904] Plugin validation succeded
+Info 287  [13:12:26.905] Starting updateGraphWorker: Project: /dev/null/inferredProject5*
+Info 288  [13:12:27.58] Finishing updateGraphWorker: Project: /dev/null/inferredProject5* Version: 1 structureChanged: true Elapsed: 153ms
+Info 289  [13:12:27.58] Project '/dev/null/inferredProject5*' (Inferred)
+Info 290  [13:12:27.58] 	Files (6)
+
+Info 291  [13:12:27.58] -----------------------------------------------
+Info 292  [13:12:27.972] Search path: /home/avi/angular/angular-basics/one/first/src/app/ang-ref
+Info 293  [13:12:27.972] For info: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 294  [13:12:27.972] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 295  [13:12:29.205] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 21 structureChanged: true Elapsed: 1233ms
+Info 296  [13:12:29.205] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 297  [13:12:29.205] 	Files (126)
+
+Info 298  [13:12:29.205] -----------------------------------------------
+Info 299  [13:12:29.205] `remove Project::
+Info 300  [13:12:29.205] Project '/dev/null/inferredProject5*' (Inferred)
+Info 301  [13:12:29.205] 	Files (6)
+
+Info 302  [13:12:29.205] -----------------------------------------------
+Info 303  [13:12:29.425] Search path: /home/avi/angular/angular-basics/one/first/src/app/ang-ref
+Info 304  [13:12:29.426] For info: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.spec.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 305  [13:12:29.426] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 306  [13:12:29.816] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 22 structureChanged: true Elapsed: 390ms
+Info 307  [13:12:29.816] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 308  [13:12:29.816] 	Files (195)
+
+Info 309  [13:12:29.816] -----------------------------------------------
+Info 310  [13:12:32.339] Search path: /home/avi/angular/angular-basics/one/first/src/app/ang-ref
+Info 311  [13:12:32.340] For info: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 312  [13:12:32.340] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 313  [13:12:32.393] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 23 structureChanged: true Elapsed: 53ms
+Info 314  [13:12:32.393] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 315  [13:12:32.394] 	Files (126)
+
+Info 316  [13:12:32.394] -----------------------------------------------
+Info 317  [13:12:36.227] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 318  [13:12:36.227] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 319  [13:12:36.227] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 320  [13:12:36.295] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 24 structureChanged: true Elapsed: 68ms
+Info 321  [13:12:36.295] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 322  [13:12:36.295] 	Files (0)
+
+Info 323  [13:12:36.295] -----------------------------------------------
+Info 324  [13:12:36.296] Loading global plugin @angular/language-service
+Info 325  [13:12:36.296] Enabling plugin @angular/language-service from candidate paths: /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js,/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js/../../..
+Info 326  [13:12:36.296] Loading @angular/language-service from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js (resolved to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js/node_modules)
+Info 327  [13:12:36.321] Plugin validation succeded
+Info 328  [13:12:36.325] Starting updateGraphWorker: Project: /dev/null/inferredProject6*
+Info 329  [13:12:36.971] Finishing updateGraphWorker: Project: /dev/null/inferredProject6* Version: 1 structureChanged: true Elapsed: 646ms
+Info 330  [13:12:36.971] Project '/dev/null/inferredProject6*' (Inferred)
+Info 331  [13:12:36.971] 	Files (107)
+
+Info 332  [13:12:36.971] -----------------------------------------------
+Info 333  [13:12:40.198] Search path: /home/avi/angular/angular-basics/one/first/src/app
+Info 334  [13:12:40.199] For info: /home/avi/angular/angular-basics/one/first/src/app/app.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 335  [13:12:40.199] Starting updateGraphWorker: Project: /dev/null/inferredProject6*
+Info 336  [13:12:40.216] Finishing updateGraphWorker: Project: /dev/null/inferredProject6* Version: 2 structureChanged: false Elapsed: 17ms
+Info 337  [13:12:40.216] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 338  [13:13:8.596] Search path: /home/avi/angular/angular-basics/one/first/src/app/ang-ref
+Info 339  [13:13:8.596] For info: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 340  [13:13:8.596] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 341  [13:13:8.596] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 25 structureChanged: false Elapsed: 0ms
+Info 342  [13:13:8.596] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 343  [13:13:8.596] 	Files (0)
+
+Info 344  [13:13:8.597] -----------------------------------------------
+Info 345  [13:13:8.597] Starting updateGraphWorker: Project: /dev/null/inferredProject6*
+Info 346  [13:13:8.650] Finishing updateGraphWorker: Project: /dev/null/inferredProject6* Version: 3 structureChanged: true Elapsed: 53ms
+Info 347  [13:13:8.650] Project '/dev/null/inferredProject6*' (Inferred)
+Info 348  [13:13:8.650] 	Files (107)
+
+Info 349  [13:13:8.650] -----------------------------------------------
+Info 350  [13:13:42.563] Search path: /home/avi/angular/angular-basics/one/first/src/app/ang-ref
+Info 351  [13:13:42.563] For info: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.ts :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 352  [13:13:42.563] Starting updateGraphWorker: Project: /dev/null/inferredProject6*
+Info 353  [13:13:42.578] Finishing updateGraphWorker: Project: /dev/null/inferredProject6* Version: 4 structureChanged: false Elapsed: 15ms
+Info 354  [13:13:42.578] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 355  [13:14:20.161] Search path: /home/avi/angular/angular-basics/one/first/src/app/ang-ref
+Info 356  [13:14:20.161] For info: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 357  [13:14:20.161] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 358  [13:14:20.161] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 26 structureChanged: false Elapsed: 0ms
+Info 359  [13:14:20.161] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 360  [13:14:20.161] 	Files (0)
+
+Info 361  [13:14:20.161] -----------------------------------------------
+Info 362  [13:14:20.162] Starting updateGraphWorker: Project: /dev/null/inferredProject6*
+Info 363  [13:14:20.182] Finishing updateGraphWorker: Project: /dev/null/inferredProject6* Version: 5 structureChanged: true Elapsed: 20ms
+Info 364  [13:14:20.182] Project '/dev/null/inferredProject6*' (Inferred)
+Info 365  [13:14:20.182] 	Files (6)
+
+Info 366  [13:14:20.182] -----------------------------------------------
+Info 367  [13:14:24.298] Search path: /home/avi/angular/angular-basics/one/first/src/app/ang-ref
+Info 368  [13:14:24.298] For info: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html :: Config file name: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 369  [13:14:24.298] Starting updateGraphWorker: Project: /dev/null/inferredProject6*
+Info 370  [13:14:24.332] Finishing updateGraphWorker: Project: /dev/null/inferredProject6* Version: 6 structureChanged: false Elapsed: 34ms
+Info 371  [13:14:24.332] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 372  [13:36:18.588] FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 373  [13:36:18.588] Elapsed:: 0ms FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 374  [13:36:18.592] FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 375  [13:36:18.593] Elapsed:: 0ms FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 376  [13:36:18.844] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 377  [13:36:18.845] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 27 structureChanged: false Elapsed: 0ms
+Info 378  [13:36:18.845] Project '/home/avi/angular/angular-basics/one/first/src/tsconfig.json' (Configured)
+Info 379  [13:36:18.846] 	Files (0)
+
+Info 380  [13:36:18.846] -----------------------------------------------
+Info 381  [13:36:21.94] Before ensureProjectForOpenFiles:
+Info 382  [13:36:21.94] Starting updateGraphWorker: Project: /dev/null/inferredProject6*
+Info 383  [13:36:21.96] Finishing updateGraphWorker: Project: /dev/null/inferredProject6* Version: 7 structureChanged: true Elapsed: 1ms
+Info 384  [13:36:21.97] Project '/dev/null/inferredProject6*' (Inferred)
+Info 385  [13:36:21.97] 	Files (0)
+
+Info 386  [13:36:21.97] -----------------------------------------------
+Info 387  [13:36:21.97] After ensureProjectForOpenFiles:
+Info 388  [13:39:6.692] FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 389  [13:39:6.693] Elapsed:: 1ms FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 390  [13:39:6.693] FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 391  [13:39:6.694] Elapsed:: 1ms FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 392  [13:39:6.944] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 393  [13:39:6.944] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 28 structureChanged: false Elapsed: 0ms
+Info 394  [13:39:9.194] Before ensureProjectForOpenFiles:
+Info 395  [13:39:9.194] After ensureProjectForOpenFiles:
+Info 396  [13:39:47.213] FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 397  [13:39:47.214] Elapsed:: 1ms FileWatcher:: Triggered with /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 1:: WatchInfo: /home/avi/angular/angular-basics/one/first/src/app/ang-ref/ang-ref.component.html 500 undefined Project:  WatchType: Closed Script info
+Info 398  [13:39:47.464] Starting updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json
+Info 399  [13:39:47.464] Finishing updateGraphWorker: Project: /home/avi/angular/angular-basics/one/first/src/tsconfig.json Version: 29 structureChanged: false Elapsed: 0ms
+Info 400  [13:39:49.714] Before ensureProjectForOpenFiles:
+Info 401  [13:39:49.714] After ensureProjectForOpenFiles:

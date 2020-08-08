@@ -1,0 +1,11 @@
+[2020-08-04 11:56:03.387] [sharedprocess] [info] main {"machineId":"aa4a3149c23c3ca8372f9febcaa8f4a922f37b00b7c7d602a81baee44f7f2829","windowId":2}
+[2020-08-04 11:56:06.109] [sharedprocess] [info] Deleted from disk dart-code.flutter /home/avi/.vscode-oss/extensions/dart-code.flutter-3.12.2
+[2020-08-04 11:56:06.603] [sharedprocess] [info] Deleted from disk dart-code.dart-code /home/avi/.vscode-oss/extensions/dart-code.dart-code-3.12.2
+[2020-08-04 11:56:06.841] [sharedprocess] [info] Deleted from disk angular.ng-template /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.4
+[2020-08-04 11:56:11.950] [sharedprocess] [info] Installing extension: golang.go
+[2020-08-04 11:56:17.561] [sharedprocess] [info] Downloaded extension: golang.go /home/avi/.config/Code - OSS/CachedExtensionVSIXs/golang.go-0.16.0
+[2020-08-04 11:56:17.696] [sharedprocess] [info] Extracted extension to /home/avi/.vscode-oss/extensions/.golang.go-0.16.0: golang.go
+[2020-08-04 11:56:17.696] [sharedprocess] [info] Renamed to /home/avi/.vscode-oss/extensions/golang.go-0.16.0
+[2020-08-04 11:56:17.698] [sharedprocess] [info] Installation completed. golang.go
+[2020-08-04 11:56:17.949] [sharedprocess] [info] Extensions installed successfully: golang.go
+[2020-08-04 11:56:43.403] [sharedprocess] [info] Starting to clean up unused language packs.

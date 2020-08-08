@@ -12,7 +12,7 @@ modules-center = date
 tray-position = right
 tray-padding = 2
 modules-left = bspwm title
-wm-restack = bspwm
+wm-restack = bspwm 
 enable-ipc = true
 font-0 = "FontAwesome:size=10;1.5"
 font-1 = "Tamsyn:pixelsize=10;1.5"
@@ -93,7 +93,7 @@ label-foreground = #ffffff
 label-padding = 2
 
 [module/bspwm]
-type = internal/bspwm
+type = internal/bspwm 
 pin-workspaces = true
 inline-mode = false
 enable-click = true
@@ -107,12 +107,13 @@ ws-icon-3 = 4;
 ws-icon-4 = 5;
 ws-icon-5 = 6; 
 ws-icon-default = null
-label-monitor = %name%
+label-monitor = %icon%
 
 ; for dimmed 
 label-dimmed-foreground = #555
 ;label-dimmed-underline = #266712
 label-dimmed-focused-background = #f00
+label-dimmed = %icon%
 
 ; for focused 
 label-focused = %icon%

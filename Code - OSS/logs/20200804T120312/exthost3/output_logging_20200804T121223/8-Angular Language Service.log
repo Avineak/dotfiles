@@ -1,0 +1,32 @@
+[Info  - 12:12:23 PM] Angular language server process ID: 15306
+[Info  - 12:12:23 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 12:12:23 PM] Using @angular/language-service v10.0.7 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 12:12:23 PM] Log file: /home/avi/.config/Code - OSS/logs/20200804T120312/exthost3/Angular.ng-template/nglangsvc.log
+[Info  - 12:12:48 PM] Disabling language service for /home/avi/angular/angular-reddit/src/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:2251
+            throw e;
+            ^
+
+Error: Debug Failure. False expression.
+    at watchFailedLookupLocationOfResolution (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:104424:22)
+    at Array.forEach (<anonymous>)
+    at watchFailedLookupLocationOfNonRelativeModuleResolutions (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:104459:29)
+    at Map.forEach (<anonymous>)
+    at Object.clearPerDirectoryResolutions [as startCachingPerDirectoryResolution] (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:104197:50)
+    at ConfiguredProject.Project.updateGraphWorker (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:143459:38)
+    at ConfiguredProject.Project.updateGraph (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:143403:42)
+    at ConfiguredProject.updateGraph (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:144197:63)
+    at ProjectService.reloadFileNamesOfConfiguredProject (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:145996:32)
+    at ConfiguredProject.updateGraph (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:144187:54)
+[Info  - 12:36:34 PM] Connection to server got closed. Server will restart.
+[Info  - 12:36:35 PM] Angular language server process ID: 16874
+[Info  - 12:36:35 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 12:36:35 PM] Using @angular/language-service v10.0.7 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 12:36:35 PM] Log file: /home/avi/.config/Code - OSS/logs/20200804T120312/exthost3/Angular.ng-template/nglangsvc.log
+[Error - 12:36:37 PM] No config file for /home/avi/angular/angular-reddit/src/app/app.component.ts
+[Error - 12:36:37 PM] No config file for /home/avi/angular/angular-reddit/src/app/app.component.html
+[Error - 12:36:37 PM] No config file for /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.ts
+[Error - 12:36:37 PM] No config file for /home/avi/angular/angular-reddit/src/app/user-list/user-list.component.html
+[Error - 12:36:37 PM] No config file for /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.ts
+[Error - 12:36:37 PM] No config file for /home/avi/angular/angular-reddit/src/app/user-item/user-item.component.html
+[Info  - 12:36:51 PM] Disabling language service for /home/avi/angular/angular-reddit/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.

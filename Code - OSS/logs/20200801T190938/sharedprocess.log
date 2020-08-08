@@ -1,0 +1,26 @@
+[2020-08-01 19:09:44.190] [sharedprocess] [info] main {"machineId":"aa4a3149c23c3ca8372f9febcaa8f4a922f37b00b7c7d602a81baee44f7f2829","windowId":2}
+[2020-08-01 19:09:48.347] [sharedprocess] [info] Installing extension: angular.ng-template
+[2020-08-01 19:09:48.349] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2020-08-01 19:09:48.349] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2020-08-01 19:09:50.049] [sharedprocess] [info] Downloaded extension: dart-code.flutter /home/avi/.config/Code - OSS/CachedExtensionVSIXs/dart-code.flutter-3.13.1
+[2020-08-01 19:09:50.288] [sharedprocess] [info] Extracted extension to /home/avi/.vscode-oss/extensions/.dart-code.flutter-3.13.1: dart-code.flutter
+[2020-08-01 19:09:50.288] [sharedprocess] [info] Renamed to /home/avi/.vscode-oss/extensions/dart-code.flutter-3.13.1
+[2020-08-01 19:09:50.288] [sharedprocess] [info] Installation completed. dart-code.flutter
+[2020-08-01 19:09:50.669] [sharedprocess] [info] Extensions installed successfully: dart-code.flutter
+[2020-08-01 19:09:52.412] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /home/avi/.config/Code - OSS/CachedExtensionVSIXs/dart-code.dart-code-3.13.1
+[2020-08-01 19:09:55.205] [sharedprocess] [info] Extracted extension to /home/avi/.vscode-oss/extensions/.dart-code.dart-code-3.13.1: dart-code.dart-code
+[2020-08-01 19:09:55.205] [sharedprocess] [info] Renamed to /home/avi/.vscode-oss/extensions/dart-code.dart-code-3.13.1
+[2020-08-01 19:09:55.207] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2020-08-01 19:09:55.320] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code
+[2020-08-01 19:10:05.308] [sharedprocess] [info] Downloaded extension: angular.ng-template /home/avi/.config/Code - OSS/CachedExtensionVSIXs/angular.ng-template-0.1000.7
+[2020-08-01 19:10:06.688] [sharedprocess] [info] Extracted extension to /home/avi/.vscode-oss/extensions/.angular.ng-template-0.1000.7: angular.ng-template
+[2020-08-01 19:10:06.688] [sharedprocess] [info] Renamed to /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7
+[2020-08-01 19:10:06.691] [sharedprocess] [info] Installation completed. angular.ng-template
+[2020-08-01 19:10:06.781] [sharedprocess] [info] Extensions installed successfully: angular.ng-template
+[2020-08-01 19:10:24.210] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-01 19:11:13.235] [sharedprocess] [info] Uninstalling extension: robbowen.synthwave-vscode
+[2020-08-01 19:11:13.312] [sharedprocess] [info] Successfully uninstalled extension: robbowen.synthwave-vscode
+[2020-08-01 19:11:14.596] [sharedprocess] [info] Installing extension: robbowen.synthwave-vscode
+[2020-08-01 19:11:14.644] [sharedprocess] [info] Downloaded extension: robbowen.synthwave-vscode /home/avi/.config/Code - OSS/CachedExtensionVSIXs/robbowen.synthwave-vscode-0.1.6
+[2020-08-01 19:11:14.755] [sharedprocess] [info] Removed the extension from uninstalled list: robbowen.synthwave-vscode
+[2020-08-01 19:11:14.802] [sharedprocess] [info] Extensions installed successfully: robbowen.synthwave-vscode

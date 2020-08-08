@@ -1,0 +1,31 @@
+[Info  - 12:38:53 PM] Angular language server process ID: 17362
+[Info  - 12:38:53 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 12:38:53 PM] Using @angular/language-service v10.0.7 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 12:38:53 PM] Log file: /home/avi/.config/Code - OSS/logs/20200804T120312/exthost5/Angular.ng-template/nglangsvc.log
+[Info  - 12:38:55 PM] Disabling language service for /home/avi/angular/angular-reddit/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+[Error - 12:38:55 PM] No config file for /home/avi/angular/angular-reddit/src/app/app.component.html
+internal/process/main_thread_only.js:42
+    cachedCwd = binding.cwd();
+                        ^
+
+Error: ENOENT: no such file or directory, uv_cwd
+    at process.cwd (internal/process/main_thread_only.js:42:25)
+    at Object.readDirectory (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:6045:111)
+    at ServerHost.readDirectory (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/index.js:464:37)
+    at Object.readDirectory (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:99188:25)
+    at getFileNamesFromConfigSpecs (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:29193:40)
+    at matchFileNames (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:29113:16)
+    at getFileNames (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:28662:26)
+    at parseJsonConfigFileContentWorker (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:28594:18)
+    at Object.parseJsonSourceFileConfigFileContent (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:28552:16)
+    at ProjectService.loadConfiguredProject (/home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js:145870:44) {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'uv_cwd'
+}
+[Info  - 12:39:32 PM] Connection to server got closed. Server will restart.
+[Info  - 12:39:32 PM] Angular language server process ID: 17501
+[Info  - 12:39:32 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 12:39:32 PM] Using @angular/language-service v10.0.7 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 12:39:32 PM] Log file: /home/avi/.config/Code - OSS/logs/20200804T120312/exthost5/Angular.ng-template/nglangsvc.log
+[Error - 12:39:33 PM] No config file for /home/avi/angular/angular-reddit/src/app/app.component.html

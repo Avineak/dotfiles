@@ -1,0 +1,624 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/avi/angular/angular-reddit
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/index.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/index.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.css
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/article/article.component.css
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.css
+> git show --textconv :src/app/article/article.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.html
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git show --textconv :src/app/article/article.component.spec.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.spec.ts
+> git show --textconv :src/app/article/article.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.html
+> git show --textconv :src/app/article/article.component.spec.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.spec.ts
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/article/article.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.html
+> git show --textconv :src/app/article/article.component.spec.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.spec.ts
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git show --textconv :src/app/article/article.component.spec.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.spec.ts
+> git show --textconv :src/app/article/article.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.model.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git show --textconv :src/app/article/article.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.model.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git show --textconv :src/app/article/article.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.html
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git show --textconv :src/app/article/article.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.html
+> git show --textconv :src/app/article/article.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.model.ts
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git show --textconv :src/app/article/article.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.model.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.model.ts
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/article/article.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.model.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.html
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git show --textconv :src/app/app.component.spec.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.spec.ts
+> git cat-file -s 5be2cb3fabbd5fe3fbf6b52a78dd554a7fdc5278
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git show --textconv :src/app/article/article.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/article/article.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.ts
+> git show --textconv :src/app/article/article.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/article/article.component.html
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-reddit/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

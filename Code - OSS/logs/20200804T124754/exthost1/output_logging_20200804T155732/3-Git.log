@@ -1,0 +1,411 @@
+Looking for git in: git
+Using git 2.27.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/avi/angular/angular-inventory
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git check-ignore -v -z --stdin
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show --textconv :src/app/product/product.component.css
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.css
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.model.tss
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.tss
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.model.tss
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.tss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.component.css
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.css
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.css
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.css
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.html
+> git cat-file -s b6931b538a2c5989bfedffeef51a11abadd6df58
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.ts
+> git cat-file -s ff63e050488720c0766df3a354191d53d1af2ca5
+> git show --textconv :src/app/app.component.spec.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/app.component.spec.ts
+> git cat-file -s 5be2cb3fabbd5fe3fbf6b52a78dd554a7fdc5278
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/product/product.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.ts
+> git show --textconv :src/app/product/product.component.spec.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.spec.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git show --textconv :src/app/product/product.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.model.ts
+> git show --textconv :src/app/product/product.component.html
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product/product.component.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/product-list/product-list.component.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product-list/product-list.component.ts
+> git show --textconv :src/app/product-list/product-list.model.ts
+> git ls-files --stage -- /home/avi/angular/angular-inventory/src/app/product-list/product-list.model.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

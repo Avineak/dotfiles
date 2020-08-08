@@ -7,5 +7,6 @@
 # volumeicon &
 nitrogen --restore &
 /usr/lib/mate-polkit/polkit-mate-authentication-agent-1 &
+picom &
 # xfce4-power-manager &
 powerkit &

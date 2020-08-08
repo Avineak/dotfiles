@@ -1,0 +1,22 @@
+[2020-08-06 11:42:06.684] [sharedprocess] [info] main {"machineId":"aa4a3149c23c3ca8372f9febcaa8f4a922f37b00b7c7d602a81baee44f7f2829","windowId":2}
+[2020-08-06 11:42:11.504] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2020-08-06 11:42:11.505] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2020-08-06 11:42:13.691] [sharedprocess] [info] Downloaded extension: dart-code.flutter /home/avi/.config/Code - OSS/CachedExtensionVSIXs/dart-code.flutter-3.13.2
+[2020-08-06 11:42:13.730] [sharedprocess] [info] Extracted extension to /home/avi/.vscode-oss/extensions/.dart-code.flutter-3.13.2: dart-code.flutter
+[2020-08-06 11:42:13.732] [sharedprocess] [info] Renamed to /home/avi/.vscode-oss/extensions/dart-code.flutter-3.13.2
+[2020-08-06 11:42:13.733] [sharedprocess] [info] Installation completed. dart-code.flutter
+[2020-08-06 11:42:13.936] [sharedprocess] [info] Extensions installed successfully: dart-code.flutter
+[2020-08-06 11:42:14.384] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /home/avi/.config/Code - OSS/CachedExtensionVSIXs/dart-code.dart-code-3.13.2
+[2020-08-06 11:42:16.928] [sharedprocess] [info] Extracted extension to /home/avi/.vscode-oss/extensions/.dart-code.dart-code-3.13.2: dart-code.dart-code
+[2020-08-06 11:42:16.928] [sharedprocess] [info] Renamed to /home/avi/.vscode-oss/extensions/dart-code.dart-code-3.13.2
+[2020-08-06 11:42:16.930] [sharedprocess] [info] Installation completed. dart-code.dart-code
+[2020-08-06 11:42:17.041] [sharedprocess] [info] Extensions installed successfully: dart-code.dart-code
+[2020-08-06 11:42:46.704] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-06 13:27:37.703] [sharedprocess] [info] Installing extension: ghaschel.vscode-angular-html
+[2020-08-06 13:27:43.390] [sharedprocess] [info] Downloaded extension: ghaschel.vscode-angular-html /home/avi/.config/Code - OSS/CachedExtensionVSIXs/ghaschel.vscode-angular-html-1.7.0
+[2020-08-06 13:27:43.587] [sharedprocess] [info] Extracted extension to /home/avi/.vscode-oss/extensions/.ghaschel.vscode-angular-html-1.7.0: ghaschel.vscode-angular-html
+[2020-08-06 13:27:43.588] [sharedprocess] [info] Renamed to /home/avi/.vscode-oss/extensions/ghaschel.vscode-angular-html-1.7.0
+[2020-08-06 13:27:43.588] [sharedprocess] [info] Installation completed. ghaschel.vscode-angular-html
+[2020-08-06 13:27:43.623] [sharedprocess] [info] Extensions installed successfully: ghaschel.vscode-angular-html
+[2020-08-06 13:36:49.647] [sharedprocess] [info] Uninstalling extension: ghaschel.vscode-angular-html
+[2020-08-06 13:36:49.733] [sharedprocess] [info] Successfully uninstalled extension: ghaschel.vscode-angular-html

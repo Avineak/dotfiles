@@ -42,3 +42,4 @@ run powerkit
 # run compton --shadow-exclude '!focused'
 run blueman-applet
 run msm_notifier
+run picom

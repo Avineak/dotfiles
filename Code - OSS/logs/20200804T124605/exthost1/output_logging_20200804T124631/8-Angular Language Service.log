@@ -1,0 +1,5 @@
+[Info  - 12:46:31 PM] Angular language server process ID: 18663
+[Info  - 12:46:31 PM] Using typescript/lib/tsserverlibrary v3.9.5 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 12:46:31 PM] Using @angular/language-service v10.0.7 from /home/avi/.vscode-oss/extensions/angular.ng-template-0.1000.7/server/node_modules/@angular/language-service/bundles/language-service.js
+[Info  - 12:46:31 PM] Log file: /home/avi/.config/Code - OSS/logs/20200804T124605/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 12:47:11 PM] Disabling language service for /home/avi/angular/angular-reddit/src/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
